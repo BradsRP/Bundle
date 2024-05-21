@@ -13,7 +13,7 @@ Response_0_Condition_0_Reset
 
 Response_0_Rewards 1
 Response_0_Reward_0_Type Teleport
-Response_0_Reward_0_Spawnpoint bus_1
+Response_0_Reward_0_Spawnpoint bus_3
 
 Response_1_Conditions 1
 Response_1_Condition_0_Type Experience
@@ -23,7 +23,7 @@ Response_1_Condition_0_Reset
 
 Response_1_Rewards 1
 Response_1_Reward_0_Type Teleport
-Response_1_Reward_0_Spawnpoint bus_4
+Response_1_Reward_0_Spawnpoint bus_2
 
 Response_2_Conditions 1
 Response_2_Condition_0_Type Experience
@@ -33,5 +33,5 @@ Response_2_Condition_0_Reset
 
 Response_2_Rewards 1
 Response_2_Reward_0_Type Teleport
-Response_2_Reward_0_Spawnpoint bus_2
+Response_2_Reward_0_Spawnpoint bus_1
 
