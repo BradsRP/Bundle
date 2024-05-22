@@ -1,8 +1,10 @@
+GUID df1d05cb206d4a11b8f8a01af4ed38cb
 Type Medium
+ID 7471
 
 Interactability Note
 Interactability_Hint Use
-Interactability_Text_Lines 1
+Interactability_Text_Lines 3
 
 Asset_Bundle_Version 2
 Bundle_Override_Path /Objects/Medium/Furniture/Note
