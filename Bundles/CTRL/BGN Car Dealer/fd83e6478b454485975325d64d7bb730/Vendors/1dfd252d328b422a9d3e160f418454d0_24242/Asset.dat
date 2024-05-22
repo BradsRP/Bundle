@@ -1,0 +1,12 @@
+﻿// Made in NPC Maker by BowieD
+GUID 1dfd252d328b422a9d3e160f418454d0
+Type Vendor
+ID 24242
+Selling 1
+Selling_0_ID 36580
+Selling_0_Cost 175000
+Selling_0_Rewards 1
+Selling_0_Reward_0_Type Vehicle
+Selling_0_Reward_0_ID 36580
+Selling_0_Reward_0_Spawnpoint car
+
