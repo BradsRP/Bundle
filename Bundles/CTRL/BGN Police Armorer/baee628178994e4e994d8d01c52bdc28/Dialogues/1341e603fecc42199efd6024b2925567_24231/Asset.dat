@@ -10,7 +10,9 @@ Message_0_Condition_0_ID 7471
 Message_0_Condition_0_Amount 1
 
 Message_1_Pages 1
-Responses 2
+Message_1_Responses 1
+Message_1_Response_0 2
+Responses 3
 Response_0_Messages 1
 Response_0_Message_0 0
 Response_0_Dialogue 24232

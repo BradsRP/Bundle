@@ -2,7 +2,7 @@
 GUID 8e1992f6d1cc4e94bba74afec9a4149c
 Type Vendor
 ID 24233
-Selling 7
+Selling 10
 Selling_0_ID 1195
 Selling_0_Cost 50
 Selling_1_ID 1196
@@ -17,4 +17,10 @@ Selling_5_ID 17638
 Selling_5_Cost 300
 Selling_6_ID 59368
 Selling_6_Cost 1000
+Selling_7_ID 58176
+Selling_7_Cost 500
+Selling_8_ID 58290
+Selling_8_Cost 500
+Selling_9_ID 261
+Selling_9_Cost 500
 Disable_Sorting
