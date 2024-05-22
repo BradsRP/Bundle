@@ -180,7 +180,7 @@ Response_3_Reward_2_Auto_Equip True
 Response_3_Reward_3_Type Item
 Response_3_Reward_3_ID 19190
 Response_3_Reward_3_Amount 1
-Response_3_Reward_3_Auto_Equip False
+Response_3_Reward_3_Auto_Equip True
 
 Response_3_Reward_4_Type Item
 Response_3_Reward_4_ID 19119
