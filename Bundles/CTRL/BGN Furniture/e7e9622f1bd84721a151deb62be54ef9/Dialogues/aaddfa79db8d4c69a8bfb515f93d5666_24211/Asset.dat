@@ -21,3 +21,7 @@ Response_10_Condition_0_Type Holiday
 Response_10_Condition_0_Value Christmas
 
 Response_11_Vendor 24223
+Response_11_Conditions 1
+Response_11_Condition_0_Type Holiday
+Response_11_Condition_0_Value Halloween
+
