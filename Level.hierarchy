@@ -1,4 +1,4 @@
-"Available_Instance_ID" "105"
+"Available_Instance_ID" "110"
 "Items"
 [
 	{
@@ -211341,7 +211341,142 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" ""
+			"ID" "car"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "105"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-372.9312"
+				"Y" "89.66801"
+				"Z" "919.996"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-1"
+				"Z" "0"
+				"W" "-4.371139E-08"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "heli"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "106"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-374.236"
+				"Y" "89.3463"
+				"Z" "759.846"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "plane"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "107"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "244.3831"
+				"Y" "13.89187"
+				"Z" "514.1104"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.9914448"
+				"Z" "0"
+				"W" "-0.1305263"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "boat"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "108"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-136.6694"
+				"Y" "46.26043"
+				"Z" "483.4008"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "PD_heli"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "109"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-184.4955"
+				"Y" "29.91043"
+				"Z" "488.5509"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9914449"
+				"Z" "0"
+				"W" "0.1305261"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "PD_car"
 		}
 	}
 ]
