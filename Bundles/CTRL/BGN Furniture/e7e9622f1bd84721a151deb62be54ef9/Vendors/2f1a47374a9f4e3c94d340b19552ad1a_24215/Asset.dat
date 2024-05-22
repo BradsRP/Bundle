@@ -2,7 +2,7 @@
 GUID 2f1a47374a9f4e3c94d340b19552ad1a
 Type Vendor
 ID 24215
-Selling 38
+Selling 41
 Selling_0_ID 47111
 Selling_0_Cost 300
 Selling_1_ID 47112
@@ -79,4 +79,10 @@ Selling_36_ID 1221
 Selling_36_Cost 300
 Selling_37_ID 17664
 Selling_37_Cost 300
+Selling_38_ID 1409
+Selling_38_Cost 300
+Selling_39_ID 1408
+Selling_39_Cost 300
+Selling_40_ID 17666
+Selling_40_Cost 300
 Disable_Sorting

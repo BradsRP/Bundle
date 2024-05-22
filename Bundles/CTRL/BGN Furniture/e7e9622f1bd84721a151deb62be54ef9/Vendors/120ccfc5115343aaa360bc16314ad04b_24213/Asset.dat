@@ -2,7 +2,7 @@
 GUID 120ccfc5115343aaa360bc16314ad04b
 Type Vendor
 ID 24213
-Selling 22
+Selling 29
 Selling_0_ID 294
 Selling_0_Cost 250
 Selling_1_ID 288
@@ -47,4 +47,18 @@ Selling_20_ID 17627
 Selling_20_Cost 250
 Selling_21_ID 17629
 Selling_21_Cost 250
+Selling_22_ID 1243
+Selling_22_Cost 250
+Selling_23_ID 1309
+Selling_23_Cost 250
+Selling_24_ID 1310
+Selling_24_Cost 250
+Selling_25_ID 1311
+Selling_25_Cost 250
+Selling_26_ID 1312
+Selling_26_Cost 250
+Selling_27_ID 1313
+Selling_27_Cost 250
+Selling_28_ID 1314
+Selling_28_Cost 250
 Disable_Sorting
