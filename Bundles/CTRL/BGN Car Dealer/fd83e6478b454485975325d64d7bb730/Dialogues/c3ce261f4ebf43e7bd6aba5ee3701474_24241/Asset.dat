@@ -4,7 +4,7 @@ Type Dialogue
 ID 24241
 Messages 1
 Message_0_Pages 1
-Responses 25
+Responses 27
 Response_0_Vendor 24242
 Response_1_Vendor 24243
 Response_2_Vendor 24244
@@ -30,3 +30,4 @@ Response_21_Vendor 24264
 Response_22_Vendor 24265
 Response_23_Vendor 24266
 Response_24_Vendor 24267
+Response_25_Vendor 24268
