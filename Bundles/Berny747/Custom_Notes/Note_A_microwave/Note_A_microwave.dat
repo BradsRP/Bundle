@@ -1,6 +1,6 @@
-GUID df1d05cb206d4a11b8f8a01af4ed38cb
+GUID b6acfcbb29304b41be4ec0f8ad1e0b25
 Type Medium
-ID 7471
+ID 28001
 
 Interactability Note
 Interactability_Hint Use
@@ -8,4 +8,5 @@ Interactability_Text_Lines 3
 
 Asset_Bundle_Version 2
 Bundle_Override_Path /Objects/Medium/Furniture/Note
+
 Has_Clip_Prefab false
