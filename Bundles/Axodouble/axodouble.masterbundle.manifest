@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2963119818
+CRC: 2806138727
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: df72dedcf4127db6cde13d34a0d36766
+    Hash: b8cdb70f033e3d5f722a8ef2beeaf5b9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8095bc6d171f8f00e73cf5a0c8f28221
+    Hash: 00e751ef74f5aa3247aaca048cf6fc6c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,33 +31,56 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
 - Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5dcd01db1ebec4d8f143d933b00964, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 134
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
 - Class: 205
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
 Assets:
 - Assets/Axodouble/Items/Melee/Pickaxe/Platinum_Pickaxe/Item.prefab
-- Assets/Axodouble/Trees/Copper_0/Resource.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Moth.png
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Item.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Gold_Ingot/Item.prefab
 - Assets/Axodouble/Items/Melee/Axe/Iron_Axe/Animations.prefab
 - Assets/Axodouble/Items/Melee/Axe/Platinum_Axe/Animations.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Barricade.prefab
-- Assets/Axodouble/Resources/Materials/Platinum.mat
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Materials/Streetlight.mat
 - Assets/Axodouble/Items/Supplies/Ingot/Cobalt_Ingot/Barricade.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Platinum_Ingot/Item.prefab
 - Assets/Axodouble/Trees/Cobalt_0/Stump.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Materials/Texture.mat
+- Assets/Axodouble/Resources/Materials/Platinum.mat
 - Assets/Axodouble/Trees/Copper_0/Stump.prefab
 - Assets/Axodouble/Trees/Platinum_0/Stump.prefab
+- Assets/Axodouble/Trees/Copper_0/Resource.prefab
 - Assets/Axodouble/Items/Melee/Pickaxe/Iron_Pickaxe/Animations.prefab
 - Assets/Axodouble/Trees/Iron_0/Resource.prefab
 - Assets/Axodouble/Resources/Textures/Handle.png
@@ -71,6 +94,7 @@ Assets:
 - Assets/Axodouble/Resources/Materials/Metal.mat
 - Assets/Axodouble/Items/Melee/Pickaxe/Iron_Pickaxe/Item.prefab
 - Assets/Axodouble/Items/Melee/Axe/Platinum_Axe/Item.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Texture.png
 - Assets/Axodouble/Items/Supplies/Ingot/Gold_Ingot/Barricade.prefab
 - Assets/Axodouble/Items/Melee/Axe/Cobalt_Axe/Animations.prefab
 - Assets/Axodouble/Resources/Materials/Cobalt.mat
@@ -82,6 +106,7 @@ Assets:
 - Assets/Axodouble/Items/Melee/Axe/Gold_Axe/Item.prefab
 - Assets/Axodouble/Resources/Materials/Handle.mat
 - Assets/Axodouble/Items/Melee/Axe/Iron_Axe/Item.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Materials/Light.mat
 - Assets/Axodouble/Resources/Models/Blender.blend
 - Assets/Axodouble/Items/Supplies/Ingot/Cobalt_Ingot/Animations.prefab
 - Assets/Axodouble/Items/Melee/Axe/Copper_Axe/Item.prefab
@@ -105,15 +130,18 @@ Assets:
 - Assets/Axodouble/Items/Supplies/Ingot/Cobalt_Ingot/Use.mp3
 - Assets/Axodouble/Items/Supplies/Ore/Gold_Ore/Item.prefab
 - Assets/Axodouble/Trees/Gold_0/Stump.prefab
-- Assets/Axodouble/Resources/Textures/Cobalt.png
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Nav.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Animations.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Materials/Moth.mat
 - Assets/Axodouble/Trees/Platinum_0/Resource.prefab
-- Assets/Axodouble/Resources/Textures/Gold.png
+- Assets/Axodouble/Resources/Textures/Cobalt.png
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Use.mp3
 - Assets/Axodouble/Trees/Iron_0/Stump.prefab
 - Assets/Axodouble/Items/Melee/Pickaxe/Gold_Pickaxe/Animations.prefab
+- Assets/Axodouble/Resources/Textures/Gold.png
 - Assets/Axodouble/Resources/Materials/Coal.mat
 - Assets/Axodouble/Resources/Materials/Copper.mat
 - Assets/Axodouble/Trees/Gold_0/Resource.prefab
+- Assets/Axodouble/Objects/Dynamic_Streetlight/Object.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Use.mp3
 Dependencies: []
