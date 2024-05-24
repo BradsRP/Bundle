@@ -17,3 +17,26 @@ Response_0_Reward_1_ID 24295
 Response_0_Reward_1_Value 1
 Response_0_Reward_1_Modification Assign
 
+Response_1_Dialogue 24296
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 24294
+Response_1_Reward_0_Value 0
+Response_1_Reward_0_Modification Assign
+
+Response_1_Reward_1_Type Flag_Short
+Response_1_Reward_1_ID 24298
+Response_1_Reward_1_Value 1
+Response_1_Reward_1_Modification Assign
+
+Response_2_Rewards 2
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 24294
+Response_2_Reward_0_Value 0
+Response_2_Reward_0_Modification Assign
+
+Response_2_Reward_1_Type Flag_Short
+Response_2_Reward_1_ID 24295
+Response_2_Reward_1_Value 1
+Response_2_Reward_1_Modification Assign
+
