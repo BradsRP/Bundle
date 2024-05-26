@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3068332384
+CRC: 2398325455
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 144ddcf44f541ab471e828dd1b0f50a5
+    Hash: bf233c559919b3502433331bfd7ef5d4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 184f29fbcdf502c46702a170e2b13f27
@@ -85,6 +85,7 @@ Assets:
 - Assets/Axodouble/Items/Shirts/Bus_Timetable/Character_Material_Override.mat
 - Assets/Axodouble/Resources/Textures/Bus.png
 - Assets/Axodouble/Resources/Materials/Metal.mat
+- Assets/Axodouble/Resources/Textures/Bus_Stop.png
 - Assets/Axodouble/Items/Supplies/Ingot/Gold_Ingot/Barricade.prefab
 - Assets/Axodouble/Items/Melee/Axe/Cobalt_Axe/Animations.prefab
 - Assets/Axodouble/Resources/Materials/Cobalt.mat
@@ -98,6 +99,7 @@ Assets:
 - Assets/Axodouble/Items/Supplies/Ingot/Platinum_Ingot/Barricade.prefab
 - Assets/Axodouble/Objects/Interactibles/Bus_Timetable/Object.prefab
 - Assets/Axodouble/Items/Melee/Pickaxe/Cobalt_Pickaxe/Animations.prefab
+- Assets/Axodouble/Resources/Textures/Checkerboard_Light_Gray.png
 - Assets/Axodouble/Items/Supplies/Ingot/Platinum_Ingot/Use.mp3
 - Assets/Axodouble/Trees/Platinum_0/Resource.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Platinum_Ingot/Animations.prefab
@@ -109,6 +111,8 @@ Assets:
 - Assets/Axodouble/Items/Melee/Pickaxe/Gold_Pickaxe/Item.prefab
 - Assets/Axodouble/Resources/Textures/Gold.png
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Animations.prefab
+- Assets/Axodouble/Resources/Materials/Timetable.mat
+- Assets/Axodouble/Objects/Transport/Bus_Stop/Object.prefab
 - Assets/Axodouble/Objects/Streetlights/Dynamic_Streetlight_Flickering/Nav.prefab
 - Assets/Axodouble/Objects/Interactibles/Bus_Timetable/Nav.prefab
 - Assets/Axodouble/Items/Shirts/Bus_Timetable/Item.prefab
@@ -118,6 +122,7 @@ Assets:
 - Assets/Axodouble/Trees/Gold_0/Resource.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Use.mp3
 - Assets/Axodouble/Items/Melee/Pickaxe/Platinum_Pickaxe/Item.prefab
+- Assets/Axodouble/Resources/Materials/Checkerboard_Light_Gray.mat
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Barricade.prefab
 - Assets/Axodouble/Items/Melee/Axe/Iron_Axe/Animations.prefab
 - Assets/Axodouble/Resources/Materials/Platinum.mat
@@ -141,10 +146,12 @@ Assets:
 - Assets/Axodouble/Resources/Materials/Handle.mat
 - Assets/Axodouble/Resources/Models/Blender.blend
 - Assets/Axodouble/Items/Melee/Axe/Copper_Axe/Item.prefab
+- Assets/Axodouble/Resources/Textures/Timetable.png
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Item.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Gold_Ingot/Use.mp3
 - Assets/Axodouble/Items/Melee/Pickaxe/Platinum_Pickaxe/Animations.prefab
 - Assets/Axodouble/Items/Supplies/Ore/Platinum_Ore/Item.prefab
+- Assets/Axodouble/Resources/Materials/Glass.mat
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Animations.prefab
 - Assets/Axodouble/Items/Supplies/Ingot/Copper_Ingot/Barricade.prefab
 - Assets/Axodouble/Resources/Textures/Copper.png
@@ -154,6 +161,7 @@ Assets:
 - Assets/Axodouble/Items/Supplies/Ore/Gold_Ore/Item.prefab
 - Assets/Axodouble/Objects/Streetlights/Materials/Moth.mat
 - Assets/Axodouble/Items/Supplies/Ingot/Iron_Ingot/Use.mp3
+- Assets/Axodouble/Objects/Transport/Bus_Stop/Nav.prefab
 - Assets/Axodouble/Resources/Materials/Copper.mat
 - Assets/Axodouble/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
 - Assets/Axodouble/Trees/Copper_0/Resource.prefab
