@@ -1,4 +1,4 @@
-"Available_Instance_ID" "110"
+"Available_Instance_ID" "122"
 "Items"
 [
 	{
@@ -1080,7 +1080,7 @@
 							"GUID" "a14df8dd9bb44f1d967a53f43bde54e6"
 						}
 						{
-							"GUID" "00000000000000000000000000000000"
+							"GUID" "c64e7de7ae7c42cb883001cb708a7ff4"
 						}
 						{
 							"GUID" "00000000000000000000000000000000"
@@ -210566,7 +210566,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"LocationName" "mine"
+			"LocationName" "mine_1"
 			"IsVisibleOnMap" "true"
 		}
 	}
@@ -210594,7 +210594,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"ID" "mine"
+			"ID" "mine_1"
 		}
 	}
 	{
@@ -211477,6 +211477,333 @@
 				"Z" "1"
 			}
 			"ID" "PD_car"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "110"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1331.997"
+				"Y" "287.8906"
+				"Z" "3182.773"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "170.4655"
+				"Y" "1"
+				"Z" "159.6351"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "111"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1328.66"
+				"Y" "255.8906"
+				"Z" "3125.931"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "mine_2"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "112"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1328.584"
+				"Y" "255.8906"
+				"Z" "3122.687"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "mine_2"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "113"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1499.67"
+				"Y" "184.76"
+				"Z" "3548.419"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "mine_3"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "114"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1502.003"
+				"Y" "185.4297"
+				"Z" "3550.648"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.6087614"
+				"Z" "0"
+				"W" "0.7933533"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "mine_3"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "115"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "460.7106"
+				"Y" "53.50797"
+				"Z" "-87.15841"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "541"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "116"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-77.41571"
+				"Y" "17.9386"
+				"Z" "-367.0204"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "541"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "117"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-634.1454"
+				"Y" "33.93958"
+				"Z" "-67.27362"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "541"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "118"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-235.3094"
+				"Y" "89.31799"
+				"Z" "743.2993"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "540"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "119"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "514.2381"
+				"Y" "89.31799"
+				"Z" "857.5548"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "540"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "120"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "597.8523"
+				"Y" "58.74768"
+				"Z" "218.1744"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "540"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.AirdropDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "121"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-673.756"
+				"Y" "17.9386"
+				"Z" "-831.9291"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"SpawnTable_ID" "541"
 		}
 	}
 ]
