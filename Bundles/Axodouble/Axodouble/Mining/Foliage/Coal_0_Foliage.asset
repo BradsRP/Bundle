@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.13-alpha
 "Metadata"
 {
-	"GUID" "5e845bd1cfa241bd93ceafb7b80913a2"
+	"GUID" "bbe7e4f4b26b4021aa9074f3dc11c789"
 	"Type" "SDG.Framework.Foliage.FoliageResourceInfoAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 }
 "Asset"
@@ -44,7 +44,7 @@
 		"Y" "1"
 		"Z" "1"
 	}
-	"Resource" "b8449e2777c145e899dcb94e8a6381a4"
+	"Resource" "8cd5739c9af64f8586450a4fbbb1c55d"
 	"Obstruction_Radius" "4"
 	"ID" "0"
 	"Asset_Bundle_Version" "1"
