@@ -126,25 +126,25 @@ Response_5_Reward_0_Modification Assign
 Response_6_Messages 1
 Response_6_Message_0 1
 Response_6_Dialogue 24294
-Response_6_Rewards 2
+Response_6_Rewards 1
 Response_6_Reward_0_Type Flag_Short
-Response_6_Reward_0_ID 24294
-Response_6_Reward_0_Value 1
-Response_6_Reward_0_Modification Increment
-
-Response_6_Reward_1_Type Flag_Short
-Response_6_Reward_1_ID 24295
-Response_6_Reward_1_Value 3
-Response_6_Reward_1_Modification Assign
+Response_6_Reward_0_ID 24295
+Response_6_Reward_0_Value 3
+Response_6_Reward_0_Modification Assign
 
 Response_7_Messages 1
 Response_7_Message_0 1
 Response_7_Dialogue 24294
-Response_7_Rewards 1
+Response_7_Rewards 2
 Response_7_Reward_0_Type Flag_Short
 Response_7_Reward_0_ID 24295
 Response_7_Reward_0_Value 3
 Response_7_Reward_0_Modification Assign
+
+Response_7_Reward_1_Type Flag_Short
+Response_7_Reward_1_ID 24294
+Response_7_Reward_1_Value 1
+Response_7_Reward_1_Modification Increment
 
 Response_8_Messages 1
 Response_8_Message_0 2
