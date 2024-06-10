@@ -1,4 +1,4 @@
-"Available_Instance_ID" "134"
+"Available_Instance_ID" "135"
 "Items"
 [
 	{
@@ -240811,9 +240811,9 @@
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "0.9238796"
+				"Y" "0.9238795"
 				"Z" "0"
-				"W" "0.3826835"
+				"W" "0.3826834"
 			}
 			"Scale"
 			{
@@ -240822,6 +240822,38 @@
 				"Z" "1"
 			}
 			"ID" "mine_5"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.KillVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "134"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "2017.54"
+				"Y" "104.4194"
+				"Z" "3704.751"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "323.0728"
+				"Y" "159.8517"
+				"Z" "213.9243"
+			}
+			"Shape" "Box"
+			"Kill_Players" "true"
+			"Kill_Zombies" "true"
+			"Kill_Animals" "true"
+			"Kill_Vehicles" "true"
+			"Death_Cause" "BONES"
 		}
 	}
 ]
