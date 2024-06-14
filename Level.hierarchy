@@ -1,4 +1,4 @@
-"Available_Instance_ID" "135"
+"Available_Instance_ID" "136"
 "Items"
 [
 	{
@@ -240854,6 +240854,35 @@
 			"Kill_Animals" "true"
 			"Kill_Vehicles" "true"
 			"Death_Cause" "BONES"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "135"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-933.494"
+				"Y" "102.6802"
+				"Z" "929.5517"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "39.70919"
+				"Y" "36.73773"
+				"Z" "34.85987"
+			}
+			"Shape" "Box"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
 		}
 	}
 ]
