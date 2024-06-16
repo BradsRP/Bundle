@@ -19846,7 +19846,7 @@
                     "type": "folder",
                     "guid": "71d63351-4b6d-4f65-b51d-10c45eecc7bd",
                     "name": "Fedora",
-                    "isExpanded": true,
+                    "isExpanded": false,
                     "children": [
                       {
                         "type": "asset",
@@ -20832,6 +20832,1064 @@
                               {
                                 "language": "English",
                                 "text": "A generic fedora."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "guid": "6a14ff7b-cdf4-49a6-b0b0-69a1ed16f61f",
+                    "name": "Tophat",
+                    "isExpanded": true,
+                    "children": [
+                      {
+                        "type": "asset",
+                        "guid": "370c9b43-9e1a-4280-8813-d6454bbdc5d6",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "e9f66df6-a7f4-49e6-8d54-b62dc5cf8044",
+                          "id": 46700,
+                          "name": "Black",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Black Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "8bff9837-72ae-4400-9135-5a8cc603b254",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "7e1e67c5-e4c9-4711-b7b4-b283d45098d4",
+                          "id": 46701,
+                          "name": "Blue",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Blue Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "7aa6e2db-1ba3-4c00-89b6-db4f9a50035b",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "5fbe7cc6-d498-4116-93ca-e15b0863b8de",
+                          "id": 46702,
+                          "name": "Gray",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Gray Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "cebb57ba-a9b0-4517-9e3b-647cfc185238",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "57568f39-f0d5-4186-90e4-47d83750db1b",
+                          "id": 46703,
+                          "name": "Green",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Green Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "8b0a0aea-df41-4e86-a077-81204c5b618b",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "63a193cf-01f4-4e4e-ae81-8cafd3a2c92b",
+                          "id": 46704,
+                          "name": "Orange",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Orange Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "2387c6ac-93e8-42d9-95a1-3f7e9e5623bc",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "2d7a15d3-c425-49d3-a687-624ebadf8ce8",
+                          "id": 46705,
+                          "name": "Pink",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Pink Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "06989d30-e527-44bf-8dc2-993dec0d5ab3",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "081020f9-ef46-49e2-a393-d511bcb9c7d6",
+                          "id": 46706,
+                          "name": "Purple",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Purple Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "67e230f8-f361-4e01-b069-bee737f9419b",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "5523adbc-e694-4102-9f13-fe7e59bde609",
+                          "id": 46707,
+                          "name": "Red",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Red Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "1b340694-60dc-40c4-9a01-f40e127af8a7",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "6cf257c4-68ab-468e-9bfa-68a5d78d2bc0",
+                          "id": 46648,
+                          "name": "White",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "White Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
+                              }
+                            ]
+                          },
+                          "rarity": "RARE",
+                          "sizeX": 2,
+                          "sizeY": 1,
+                          "qualityMin": 10,
+                          "qualityMax": 90,
+                          "countMin": 1,
+                          "countMax": 1,
+                          "useableType": "Clothing",
+                          "amount": 1,
+                          "sharedSkinLookupID": 0,
+                          "sizeZ": -1.0,
+                          "sizeZ2": -1.0,
+                          "isBackward": false,
+                          "shouldProcedurallyAnimateInertia": true,
+                          "canPlayerEquip": null,
+                          "equipableMovementSpeedMultiplier": 1.0,
+                          "canUseUnderwater": null,
+                          "slot": "None",
+                          "shouldDestroyItemColliders": true,
+                          "instantiatedItemNameOverride": null,
+                          "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                          "isEligibleForAutoStatDescriptions": true,
+                          "econIconUseId": false,
+                          "inventoryAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "inspectAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "equipablePrefab": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "blueprints": [],
+                          "actions": [],
+                          "armor": 1.0,
+                          "explosionArmor": 1.0,
+                          "fallingDamageMultiplier": 1.0,
+                          "proofWater": false,
+                          "proofFire": false,
+                          "proofRadiation": false,
+                          "movementSpeedMultiplier": 1.0,
+                          "visibleOnRagdoll": true,
+                          "hairVisible": true,
+                          "beardVisible": true,
+                          "mirrorLeftHandedModel": true,
+                          "shouldDestroyClothingColliders": true,
+                          "priorityOverCosmeticOverride": null,
+                          "skinOverride": null,
+                          "preventsFallingBrokenBones": false,
+                          "wearAudio": {
+                            "bundle": "",
+                            "path": ""
+                          },
+                          "hairOverride": ""
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "b0694230-510b-43db-b238-3c38a1d44e42",
+                        "asset": {
+                          "type": "item/clothing/hat",
+                          "guid": "42945544-406f-41e9-95e2-6ab177d643e3",
+                          "id": 46649,
+                          "name": "Yellow",
+                          "editorComment": null,
+                          "assetBundleVersion": 4,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "isPro": false,
+                          "bypassHashVerification": false,
+                          "overrideShowQuality": false,
+                          "shouldDropOnDeath": true,
+                          "allowManualDrop": true,
+                          "shouldDeleteAtZeroQuality": false,
+                          "useAutoIconMeasurements": true,
+                          "itemName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Yellow Tophat"
+                              }
+                            ]
+                          },
+                          "itemDescription": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "A generic tophat."
                               }
                             ]
                           },
