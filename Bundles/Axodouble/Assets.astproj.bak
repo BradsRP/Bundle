@@ -5812,7 +5812,7 @@
             "type": "folder",
             "guid": "1b24b0ec-ba87-4031-ab39-77f0fc51d3fb",
             "name": "Pants",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -5828,7 +5828,7 @@
                       "guid": "eeb5521c-7743-42ca-8b4a-bc41841b0433",
                       "id": 46660,
                       "name": "Black",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -5963,7 +5963,7 @@
                       "guid": "50f0ef5c-ef74-452c-b2f0-3c0d38de8d0f",
                       "id": 46661,
                       "name": "Blue",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6098,7 +6098,7 @@
                       "guid": "71643488-76b3-4ec3-8d68-3465b031d380",
                       "id": 46662,
                       "name": "Gray",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6233,7 +6233,7 @@
                       "guid": "5a42d2bb-627d-4f0e-ab4d-3bcaad7b4f38",
                       "id": 46663,
                       "name": "Green",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6368,7 +6368,7 @@
                       "guid": "756d42c2-ec4d-46c5-a66a-d7780f85bc38",
                       "id": 46664,
                       "name": "Orange",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6503,7 +6503,7 @@
                       "guid": "237ca334-7c82-4d57-8625-2180e95824b8",
                       "id": 46665,
                       "name": "Pink",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6638,7 +6638,7 @@
                       "guid": "49a207f2-37f9-446a-990d-cb34e8aae6c8",
                       "id": 46666,
                       "name": "Purple",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6773,7 +6773,7 @@
                       "guid": "6a0b1353-f7ce-45b1-9227-9a8947e154b6",
                       "id": 46667,
                       "name": "Red",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -6908,7 +6908,7 @@
                       "guid": "9c8fe2d0-cf4f-44ff-880b-cc0b10eef80f",
                       "id": 46668,
                       "name": "White",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7043,7 +7043,7 @@
                       "guid": "ffb00c65-9124-456b-b70d-27b204237668",
                       "id": 46669,
                       "name": "Yellow",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7176,7 +7176,7 @@
                 "type": "folder",
                 "guid": "078f698f-403b-4f29-b9ba-6f19e06f4a16",
                 "name": "Generic Shorts",
-                "isExpanded": false,
+                "isExpanded": true,
                 "children": [
                   {
                     "type": "asset",
@@ -7186,7 +7186,7 @@
                       "guid": "da1170fd-9310-4f9b-bb57-e29fdfdac0e0",
                       "id": 46670,
                       "name": "Black",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7321,7 +7321,7 @@
                       "guid": "ea59de6c-ad15-4564-9ca9-4cc171eba590",
                       "id": 46671,
                       "name": "Blue",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7456,7 +7456,7 @@
                       "guid": "e3605810-1e4d-41c1-8364-5372c59094cd",
                       "id": 46672,
                       "name": "Gray",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7591,7 +7591,7 @@
                       "guid": "4b34b83e-16e9-4713-a44a-2f1f7cba1cf4",
                       "id": 46673,
                       "name": "Green",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7726,7 +7726,7 @@
                       "guid": "3f46d34c-94c7-4a43-bda6-8292902c4875",
                       "id": 46674,
                       "name": "Orange",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7861,7 +7861,7 @@
                       "guid": "8fd4640d-ebd7-4f24-97dc-6d587cdf78d8",
                       "id": 46675,
                       "name": "Pink",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -7996,7 +7996,7 @@
                       "guid": "1d745eee-ace8-46e7-8865-b3729a680c3e",
                       "id": 46676,
                       "name": "Purple",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8131,7 +8131,7 @@
                       "guid": "5c34b0cd-cfaf-47d7-805c-2a54229793ea",
                       "id": 46677,
                       "name": "Red",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8266,7 +8266,7 @@
                       "guid": "eab047e9-e95b-4237-8c1c-e50beefbc34a",
                       "id": 46678,
                       "name": "White",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8401,7 +8401,7 @@
                       "guid": "808602d4-6321-4cbc-badb-a4dd431c9322",
                       "id": 46679,
                       "name": "Yellow",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8536,7 +8536,7 @@
             "type": "folder",
             "guid": "02837bb6-d627-468f-b491-62dc4d0deb4e",
             "name": "Shirts",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -8552,7 +8552,7 @@
                       "guid": "7fe58307-3241-4b7a-87ee-831887093831",
                       "id": 46690,
                       "name": "Black",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8691,7 +8691,7 @@
                       "guid": "4e3081fd-4c41-44a3-a5f8-0bd0984e6d7f",
                       "id": 46691,
                       "name": "Blue",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8830,7 +8830,7 @@
                       "guid": "b7cbd25e-8f97-4b53-88a9-b333ac937d1c",
                       "id": 46692,
                       "name": "Gray",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -8969,7 +8969,7 @@
                       "guid": "4a9a8f99-2897-4aa4-bb53-b1296cd3f6b2",
                       "id": 46693,
                       "name": "Green",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9108,7 +9108,7 @@
                       "guid": "1caef387-8a49-4612-b31c-12d309f3f555",
                       "id": 46694,
                       "name": "Orange",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9247,7 +9247,7 @@
                       "guid": "89f45a46-e0d7-4a3b-842f-31d3e7e00102",
                       "id": 46695,
                       "name": "Pink",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9386,7 +9386,7 @@
                       "guid": "f6ea19e0-f1f5-4473-920c-9f14d9ec8518",
                       "id": 46696,
                       "name": "Purple",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9525,7 +9525,7 @@
                       "guid": "9870923b-9df1-4d23-adca-a043135b8503",
                       "id": 46697,
                       "name": "Red",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9664,7 +9664,7 @@
                       "guid": "8568712b-6f58-48c4-9126-7e92cb397b5b",
                       "id": 46698,
                       "name": "White",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9803,7 +9803,7 @@
                       "guid": "5f832695-7fcd-40d3-96b8-55d0000c73a3",
                       "id": 46699,
                       "name": "Yellow",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 4,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -9940,13 +9940,13 @@
                 "type": "folder",
                 "guid": "6891b532-ac3f-4878-be7a-b9840c534e20",
                 "name": "Plaid Shirt",
-                "isExpanded": false,
+                "isExpanded": true,
                 "children": [
                   {
                     "type": "folder",
                     "guid": "89dcef1c-cae6-4151-a6f8-5b32d161de96",
                     "name": "Normal",
-                    "isExpanded": false,
+                    "isExpanded": true,
                     "children": [
                       {
                         "type": "asset",
@@ -9956,7 +9956,7 @@
                           "guid": "adfe585c-012c-4b10-9520-8ad2defbdd12",
                           "id": 46650,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10123,7 +10123,7 @@
                           "guid": "c43f7325-b04c-4174-97da-be4c88866be3",
                           "id": 46651,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10290,7 +10290,7 @@
                           "guid": "c79de005-2df1-4bd4-831c-b46652d20d30",
                           "id": 46652,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10454,10 +10454,10 @@
                         "guid": "10632408-b1b8-43b0-8d9e-aeee9639d482",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "4a9a8f99-2897-4aa4-bb53-b1296cd3f6b2",
+                          "guid": "fe60f91d-89ab-4aee-a24f-aa1fe79e1ba7",
                           "id": 46653,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10621,10 +10621,10 @@
                         "guid": "262b0c06-dfc2-4def-9971-a68e0940f30d",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "1caef387-8a49-4612-b31c-12d309f3f555",
+                          "guid": "9314ef05-6191-4ec9-adf0-4740ef4c47a4",
                           "id": 46654,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10788,10 +10788,10 @@
                         "guid": "452f5269-4873-4380-adbd-d2b28c878f7a",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "89f45a46-e0d7-4a3b-842f-31d3e7e00102",
+                          "guid": "8aa74d22-c370-4f11-9255-21c397f26f29",
                           "id": 46655,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -10955,10 +10955,10 @@
                         "guid": "7ed0d24e-0a9a-4337-8999-73251bfd59f2",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "f6ea19e0-f1f5-4473-920c-9f14d9ec8518",
+                          "guid": "1d5430c3-722d-4ef1-8780-fe69342caa7d",
                           "id": 46656,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11122,10 +11122,10 @@
                         "guid": "7b40218a-519a-4adc-95fa-a94f6caf1932",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "9870923b-9df1-4d23-adca-a043135b8503",
+                          "guid": "a14edd3c-9bbe-4746-8fae-087fa4ae9223",
                           "id": 46657,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11289,10 +11289,10 @@
                         "guid": "ac8b7a64-749e-4a84-853c-4eba743f0a63",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "8568712b-6f58-48c4-9126-7e92cb397b5b",
+                          "guid": "2e838e94-e2d9-4338-8a40-d0210ea384a2",
                           "id": 46658,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11456,10 +11456,10 @@
                         "guid": "979eb737-140e-4ce4-af80-da4f2acd2395",
                         "asset": {
                           "type": "item/clothing/shirt",
-                          "guid": "34fccccd-8765-4deb-88bd-71286e719ebb",
+                          "guid": "53088871-dcf1-4bf7-abbb-eb14875ae765",
                           "id": 46659,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11624,7 +11624,7 @@
                     "type": "folder",
                     "guid": "3d5a7885-5a5d-48ff-aa2c-8b7c876d20cd",
                     "name": "Rolled Sleeves",
-                    "isExpanded": false,
+                    "isExpanded": true,
                     "children": [
                       {
                         "type": "asset",
@@ -11634,7 +11634,7 @@
                           "guid": "af328c64-ed98-453f-9b52-56d55953d6c7",
                           "id": 46680,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11801,7 +11801,7 @@
                           "guid": "6d7cb321-46fd-4758-a4eb-002de058a045",
                           "id": 46681,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -11968,7 +11968,7 @@
                           "guid": "18c74bfa-ca45-4bb8-a2c3-e7351513c4f8",
                           "id": 46682,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12135,7 +12135,7 @@
                           "guid": "a3ff4703-4cbe-48e5-b5c5-f042bad8d515",
                           "id": 46683,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12302,7 +12302,7 @@
                           "guid": "29b76536-54c5-4a2d-a29d-71575fadfabc",
                           "id": 46684,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12469,7 +12469,7 @@
                           "guid": "a0f97cf1-8e7f-4909-9eed-9f21f11ef7a5",
                           "id": 46685,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12636,7 +12636,7 @@
                           "guid": "59a19d9b-ac1f-48d5-b33f-6b16c31a9a68",
                           "id": 46686,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12803,7 +12803,7 @@
                           "guid": "a7863366-dd7f-4c28-bdf2-7b592c44f776",
                           "id": 46687,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -12970,7 +12970,7 @@
                           "guid": "0f75e368-cf07-442a-a2f9-1036a1856699",
                           "id": 46688,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13137,7 +13137,7 @@
                           "guid": "fe415586-5d0a-4693-ac2c-b3b7c228e6cd",
                           "id": 46689,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13306,7 +13306,7 @@
             "type": "folder",
             "guid": "07f4071c-64d7-4156-808b-df13c394579a",
             "name": "Hats",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
@@ -13328,7 +13328,7 @@
                           "guid": "5cb257e3-3d2e-4fb9-8b3f-8739faa65df7",
                           "id": 46600,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13490,7 +13490,7 @@
                           "guid": "ffd4da3b-1c3b-4489-ab95-0b2c464cdfa0",
                           "id": 46601,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13652,7 +13652,7 @@
                           "guid": "7087645d-ad61-4251-a504-6e85302ca5f5",
                           "id": 46602,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13814,7 +13814,7 @@
                           "guid": "7feeb7cf-f09a-46b6-a816-9943da83f31f",
                           "id": 46603,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -13976,7 +13976,7 @@
                           "guid": "13b5eaaa-928c-4581-afe6-7bf32a768d5b",
                           "id": 46604,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14138,7 +14138,7 @@
                           "guid": "2f976f4c-8075-4c53-a918-fc289c093325",
                           "id": 46605,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14300,7 +14300,7 @@
                           "guid": "af447edf-c0f7-40da-ab01-8cbf7ec1567e",
                           "id": 46606,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14462,7 +14462,7 @@
                           "guid": "7b78685a-c4e1-4817-9b8d-93dddef4fab0",
                           "id": 46607,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14624,7 +14624,7 @@
                           "guid": "774b51d6-d46d-496c-87f4-21269271defd",
                           "id": 46608,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14786,7 +14786,7 @@
                           "guid": "d6ecea97-9ff5-4dff-841e-0027a9d33804",
                           "id": 46609,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -14956,7 +14956,7 @@
                           "guid": "15fbf43e-bba1-4d10-b423-1d8f3210fdd8",
                           "id": 46610,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15118,7 +15118,7 @@
                           "guid": "e89e78bf-1ba0-4a48-9d1d-cbc4ef079705",
                           "id": 46611,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15280,7 +15280,7 @@
                           "guid": "47501f20-14cd-4974-848d-47a7384c06b0",
                           "id": 46612,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15442,7 +15442,7 @@
                           "guid": "da13061f-8bbb-4eb1-9c0b-c2c4d9aacb14",
                           "id": 46613,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15604,7 +15604,7 @@
                           "guid": "ff8039af-1f48-4cad-bef3-a07555b099a8",
                           "id": 46614,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15766,7 +15766,7 @@
                           "guid": "d5b863d2-9f47-4a45-b238-13c4a0122807",
                           "id": 46615,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -15928,7 +15928,7 @@
                           "guid": "8e4889a5-f071-41b4-8243-96d4dd414011",
                           "id": 46616,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16090,7 +16090,7 @@
                           "guid": "a715d4b3-98f2-4d69-b33f-46247a24397a",
                           "id": 46617,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16252,7 +16252,7 @@
                           "guid": "2bd1f62d-31ba-40a3-8694-ec4a1abd92c1",
                           "id": 46618,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16414,7 +16414,7 @@
                           "guid": "7ff2dece-9e80-43f1-94fb-d34ad5339e35",
                           "id": 46619,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16592,7 +16592,7 @@
                           "guid": "cc06ae77-dad6-4255-bc31-d966f0dd474a",
                           "id": 46620,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16754,7 +16754,7 @@
                           "guid": "1b140a4f-5550-41d7-aeda-55fc705d62e2",
                           "id": 46621,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -16916,7 +16916,7 @@
                           "guid": "f2411087-3e91-42f5-9210-6a3190596796",
                           "id": 46622,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17078,7 +17078,7 @@
                           "guid": "d225679e-9cd8-4e71-beed-f08c61d9e42f",
                           "id": 46623,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17240,7 +17240,7 @@
                           "guid": "b5585fbe-a878-435c-8db4-5d8286d388b0",
                           "id": 46624,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17402,7 +17402,7 @@
                           "guid": "17c92f08-81dc-48cd-aba6-18d47f5b89d4",
                           "id": 46625,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17564,7 +17564,7 @@
                           "guid": "3e4fd8d2-3b4d-4fd5-9b6d-cee4bf2197e3",
                           "id": 46626,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17726,7 +17726,7 @@
                           "guid": "80fba10b-62dc-4ab0-81d1-8bb9b6e2e393",
                           "id": 46627,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -17888,7 +17888,7 @@
                           "guid": "7e5736af-117c-4412-a31d-6ea09891eff6",
                           "id": 46628,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18050,7 +18050,7 @@
                           "guid": "b77605d4-8df3-4647-b09f-89408a149c2b",
                           "id": 46629,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18220,7 +18220,7 @@
                           "guid": "0bec0aba-a0aa-45e1-a32a-8d38766be531",
                           "id": 46630,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18382,7 +18382,7 @@
                           "guid": "ab3872fc-6081-4099-9cbc-d9b8d3118e0f",
                           "id": 46631,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18544,7 +18544,7 @@
                           "guid": "b9fd628d-7174-4e6c-a9ac-27574e5a8dce",
                           "id": 46632,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18706,7 +18706,7 @@
                           "guid": "37101270-c23d-4fab-9062-1067dab496f8",
                           "id": 46633,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -18868,7 +18868,7 @@
                           "guid": "2fc3f14d-0992-44a6-b226-55808247e398",
                           "id": 46634,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19030,7 +19030,7 @@
                           "guid": "2950abf6-6d6e-44a4-ac9a-1db3efc837e7",
                           "id": 46635,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19192,7 +19192,7 @@
                           "guid": "54368c0d-40ca-40ea-a7e3-6df7e8c97097",
                           "id": 46636,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19354,7 +19354,7 @@
                           "guid": "31a0e056-7561-4f53-9722-e8fed61b12fd",
                           "id": 46637,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19516,7 +19516,7 @@
                           "guid": "9f6fabd4-c867-4cc7-8fea-c90a31209a7a",
                           "id": 46638,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19678,7 +19678,7 @@
                           "guid": "7c5b88cc-e16b-457f-aca7-debc8af3b6b4",
                           "id": 46639,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19840,7 +19840,7 @@
                 "type": "folder",
                 "guid": "bc262674-0870-46c0-9992-118da5ebd15b",
                 "name": "Formal",
-                "isExpanded": true,
+                "isExpanded": false,
                 "children": [
                   {
                     "type": "folder",
@@ -19856,7 +19856,7 @@
                           "guid": "e6d9a5d0-3df4-4ede-990b-4501d46cad06",
                           "id": 46640,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -19961,7 +19961,7 @@
                           "guid": "8ddeba67-546f-4b3f-b084-23d34add16f4",
                           "id": 46641,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20066,7 +20066,7 @@
                           "guid": "de648ad5-25db-440f-9a32-960fc65bf1e0",
                           "id": 46642,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20171,7 +20171,7 @@
                           "guid": "87011534-df35-4784-92e5-1dad5da1fd33",
                           "id": 46643,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20276,7 +20276,7 @@
                           "guid": "2f286017-4535-40a7-a983-f87039c0a27c",
                           "id": 46644,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20381,7 +20381,7 @@
                           "guid": "742df83c-ee4d-47bd-b37f-42bec3316c40",
                           "id": 46645,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20486,7 +20486,7 @@
                           "guid": "d4e3a640-c0dc-496f-9e9b-28882206eca7",
                           "id": 46646,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20591,7 +20591,7 @@
                           "guid": "24c27374-d776-4006-b56e-1338c8d3a32c",
                           "id": 46647,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20696,7 +20696,7 @@
                           "guid": "8358b9e1-4a76-46b3-acde-638942e3d526",
                           "id": 46648,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20801,7 +20801,7 @@
                           "guid": "bbeb6bd3-5d3f-44ac-a64a-8d7a8950e3b6",
                           "id": 46649,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -20904,17 +20904,17 @@
                     "type": "folder",
                     "guid": "6a14ff7b-cdf4-49a6-b0b0-69a1ed16f61f",
                     "name": "Tophat",
-                    "isExpanded": true,
+                    "isExpanded": false,
                     "children": [
                       {
                         "type": "asset",
                         "guid": "370c9b43-9e1a-4280-8813-d6454bbdc5d6",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "5f5846c2-4d6a-4a0b-9107-f54c82909240",
+                          "guid": "e9f66df6-a7f4-49e6-8d54-b62dc5cf8044",
                           "id": 46700,
                           "name": "Black",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21016,10 +21016,10 @@
                         "guid": "8bff9837-72ae-4400-9135-5a8cc603b254",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "8ddeba67-546f-4b3f-b084-23d34add16f4",
-                          "id": 46641,
+                          "guid": "7e1e67c5-e4c9-4711-b7b4-b283d45098d4",
+                          "id": 46701,
                           "name": "Blue",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21041,7 +21041,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Blue Fedora"
+                                "text": "Blue Tophat"
                               }
                             ]
                           },
@@ -21049,7 +21049,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21121,10 +21121,10 @@
                         "guid": "7aa6e2db-1ba3-4c00-89b6-db4f9a50035b",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "de648ad5-25db-440f-9a32-960fc65bf1e0",
-                          "id": 46642,
+                          "guid": "5fbe7cc6-d498-4116-93ca-e15b0863b8de",
+                          "id": 46702,
                           "name": "Gray",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21146,7 +21146,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Gray Fedora"
+                                "text": "Gray Tophat"
                               }
                             ]
                           },
@@ -21154,7 +21154,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21226,10 +21226,10 @@
                         "guid": "cebb57ba-a9b0-4517-9e3b-647cfc185238",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "87011534-df35-4784-92e5-1dad5da1fd33",
-                          "id": 46643,
+                          "guid": "57568f39-f0d5-4186-90e4-47d83750db1b",
+                          "id": 46703,
                           "name": "Green",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21251,7 +21251,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Green Fedora"
+                                "text": "Green Tophat"
                               }
                             ]
                           },
@@ -21259,7 +21259,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21331,10 +21331,10 @@
                         "guid": "8b0a0aea-df41-4e86-a077-81204c5b618b",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "2f286017-4535-40a7-a983-f87039c0a27c",
-                          "id": 46644,
+                          "guid": "63a193cf-01f4-4e4e-ae81-8cafd3a2c92b",
+                          "id": 46704,
                           "name": "Orange",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21356,7 +21356,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Orange Fedora"
+                                "text": "Orange Tophat"
                               }
                             ]
                           },
@@ -21364,7 +21364,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21436,10 +21436,10 @@
                         "guid": "2387c6ac-93e8-42d9-95a1-3f7e9e5623bc",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "742df83c-ee4d-47bd-b37f-42bec3316c40",
-                          "id": 46645,
+                          "guid": "2d7a15d3-c425-49d3-a687-624ebadf8ce8",
+                          "id": 46705,
                           "name": "Pink",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21461,7 +21461,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Pink Fedora"
+                                "text": "Pink Tophat"
                               }
                             ]
                           },
@@ -21469,7 +21469,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21541,10 +21541,10 @@
                         "guid": "06989d30-e527-44bf-8dc2-993dec0d5ab3",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "d4e3a640-c0dc-496f-9e9b-28882206eca7",
-                          "id": 46646,
+                          "guid": "081020f9-ef46-49e2-a393-d511bcb9c7d6",
+                          "id": 46706,
                           "name": "Purple",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21566,7 +21566,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Purple Fedora"
+                                "text": "Purple Tophat"
                               }
                             ]
                           },
@@ -21574,7 +21574,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21646,10 +21646,10 @@
                         "guid": "67e230f8-f361-4e01-b069-bee737f9419b",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "24c27374-d776-4006-b56e-1338c8d3a32c",
-                          "id": 46647,
+                          "guid": "5523adbc-e694-4102-9f13-fe7e59bde609",
+                          "id": 46707,
                           "name": "Red",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21671,7 +21671,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Red Fedora"
+                                "text": "Red Tophat"
                               }
                             ]
                           },
@@ -21679,7 +21679,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21751,10 +21751,10 @@
                         "guid": "1b340694-60dc-40c4-9a01-f40e127af8a7",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "8358b9e1-4a76-46b3-acde-638942e3d526",
+                          "guid": "6cf257c4-68ab-468e-9bfa-68a5d78d2bc0",
                           "id": 46648,
                           "name": "White",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21776,7 +21776,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "White Fedora"
+                                "text": "White Tophat"
                               }
                             ]
                           },
@@ -21784,7 +21784,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
@@ -21856,10 +21856,10 @@
                         "guid": "b0694230-510b-43db-b238-3c38a1d44e42",
                         "asset": {
                           "type": "item/clothing/hat",
-                          "guid": "bbeb6bd3-5d3f-44ac-a64a-8d7a8950e3b6",
+                          "guid": "42945544-406f-41e9-95e2-6ab177d643e3",
                           "id": 46649,
                           "name": "Yellow",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 4,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -21881,7 +21881,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "Yellow Fedora"
+                                "text": "Yellow Tophat"
                               }
                             ]
                           },
@@ -21889,7 +21889,7 @@
                             "pairs": [
                               {
                                 "language": "English",
-                                "text": "A generic fedora."
+                                "text": "A generic tophat."
                               }
                             ]
                           },
