@@ -1,22 +1,12 @@
 {
-	"Creators":
-	[
-"Berny747"
-	],
-	"Collaborators":
-	[
-		"Ctrl"
-	],
-	"Thanks":
-	[
-		"Metshtival",
-		"Blista."
-	],
-
-"Allow_Holiday_Redirects": true,
-"Is_Aurora_Borealis_Visible": true,
-"Asset":
-	{
-		"GUID": "c8a176f1-7ed5-4e5f-898c-17f96b0487c9"
-	}
+  "Creators": ["Berny747"],
+  "Collaborators": ["Axodouble", "Ctrl"],
+  "Thanks": ["Metshtival", "Blista."],
+  "Feedback": "https://discord.gg/bradsrp",
+  "Version": "3.24.1.5",
+  "Allow_Holiday_Redirects": true,
+  "Is_Aurora_Borealis_Visible": true,
+  "Asset": {
+    "GUID": "c8a176f1-7ed5-4e5f-898c-17f96b0487c9"
+  }
 }
