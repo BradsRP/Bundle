@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4014713723
+CRC: 391169122
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4db7e4bdccfa6d6ea48a87a3b8e31a2
+    Hash: 8f2a7a12670e437114fb789a6216ea10
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1d22b1bc636ab2b99a5ba244dbc7f7c4
@@ -201,6 +201,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Blue/Item.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Red/Material.mat
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Albedo.png
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Black/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Orange/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Item.prefab
@@ -244,7 +245,9 @@ Assets:
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum_Ingot/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Copper_Ore/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Object.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Orange/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Slots.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Yellow/Item.mat
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Purple/Hat.prefab
@@ -299,10 +302,10 @@ Assets:
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Copper_Axe_Head/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Orange/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Gray/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Green/Item.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Item.prefab
+- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Gray/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Orange/Pants.png
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Gray/Character_Mesh_3P_Override_0.prefab
@@ -314,13 +317,14 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Black/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Pants.png
-- Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Nav.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Blue/Hat.prefab
-- Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Gray/Item.prefab
+- Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Black/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Red/Animations.prefab
+- Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/White/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Orange/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Blue/Item.prefab
@@ -585,6 +589,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Material.mat
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Item.prefab
