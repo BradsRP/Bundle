@@ -2,7 +2,7 @@
 GUID cada4aa9059141fc932e7cc194306f2a
 Type Vendor
 ID 24142
-Selling 7
+Selling 8
 Selling_0_ID 28
 Selling_0_Cost 200
 Selling_1_ID 1440
@@ -17,3 +17,6 @@ Selling_5_ID 1451
 Selling_5_Cost 100
 Selling_6_ID 75
 Selling_6_Cost 75
+Selling_7_ID 46810
+Selling_7_Cost 5000
+Disable_Sorting
