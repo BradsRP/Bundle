@@ -1,4 +1,4 @@
-"Available_Instance_ID" "143"
+"Available_Instance_ID" "148"
 "Items"
 [
 	{
@@ -241045,6 +241045,146 @@
 				"Z" "31.68134"
 			}
 			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "143"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "610.8502"
+				"Y" "23.55356"
+				"Z" "-256.7182"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "6.528535"
+				"Y" "7.179642"
+				"Z" "0.3271648"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "144"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "610.3708"
+				"Y" "22.23017"
+				"Z" "-242.1076"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "6.838571"
+				"Y" "10.39268"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "145"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "538.6135"
+				"Y" "24.46588"
+				"Z" "-282.5176"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "7.276959"
+				"Y" "6.09468"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "146"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "493.6788"
+				"Y" "24.55012"
+				"Z" "-218.1242"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "6.552658"
+				"Y" "5.839841"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "147"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "441.7552"
+				"Y" "22.23013"
+				"Z" "-353.0351"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "8.943426"
+				"Y" "10.45742"
+				"Z" "1.028091"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
 		}
 	}
 ]
