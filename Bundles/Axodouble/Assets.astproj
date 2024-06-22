@@ -4871,7 +4871,7 @@
         "type": "folder",
         "guid": "767673a8-200c-413d-8aac-5f1ac2958013",
         "name": "City",
-        "isExpanded": false,
+        "isExpanded": true,
         "children": [
           {
             "type": "folder",
@@ -5003,7 +5003,7 @@
             "type": "folder",
             "guid": "f99b1f80-43f5-4285-966f-e860a89da74b",
             "name": "Objects",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -5797,6 +5797,99 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "guid": "14293314-f531-45d4-a17f-8cd9900c8eb9",
+                "name": "Debris",
+                "isExpanded": true,
+                "children": [
+                  {
+                    "type": "folder",
+                    "guid": "8ce3b3dc-8c7f-41e4-b9a6-b8efb0daf6d8",
+                    "name": "Vehicles",
+                    "isExpanded": true,
+                    "children": [
+                      {
+                        "type": "asset",
+                        "guid": "cb831168-c174-4f20-a67c-caa055738252",
+                        "asset": {
+                          "type": "object/normal",
+                          "guid": "73ba65b0-3efe-4b85-8cfb-8ae617c4544a",
+                          "id": 225,
+                          "name": "Vehicle_Debris_Hole",
+                          "editorComment": null,
+                          "assetBundleVersion": 1,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Vehicle (Hole) #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "objectType": "LARGE",
+                          "objectInteractability": "NONE",
+                          "isSnowshoe": false,
+                          "chart": "NONE",
+                          "isSoft": false,
+                          "causesFallDamage": true,
+                          "isCollissionImportant": false,
+                          "foliage": null,
+                          "useWaterHeightTransparentSort": false,
+                          "shouldAddNightLightScript": false,
+                          "shouldAddKillTriggers": false,
+                          "allowStructures": false,
+                          "materialPalette": null,
+                          "landmarkQuality": "LOW",
+                          "lod": "MESH",
+                          "lodBias": 1.0,
+                          "lodCenter": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                          },
+                          "lodSize": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                          },
+                          "hasClipPrefab": false,
+                          "excludeFromLevelBatching": false,
+                          "rubble": {
+                            "rubble": "NONE",
+                            "resetDelay": 0.0,
+                            "health": 0,
+                            "effect": 0,
+                            "finale": 0,
+                            "rewardId": 0,
+                            "rewardChance": 1.0,
+                            "rewardMinCount": 1,
+                            "rewardMaxCount": 1,
+                            "rewardXp": 0,
+                            "isVulnerable": true,
+                            "isExplosionProof": false,
+                            "editor": "ALIVE"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
@@ -5806,7 +5899,7 @@
         "type": "folder",
         "guid": "af2a6881-9655-461d-892f-851bb877fe02",
         "name": "Clothing",
-        "isExpanded": true,
+        "isExpanded": false,
         "children": [
           {
             "type": "folder",
@@ -13306,7 +13399,7 @@
             "type": "folder",
             "guid": "07f4071c-64d7-4156-808b-df13c394579a",
             "name": "Hats",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
