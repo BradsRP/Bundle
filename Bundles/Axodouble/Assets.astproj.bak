@@ -5812,7 +5812,7 @@
             "type": "folder",
             "guid": "1b24b0ec-ba87-4031-ab39-77f0fc51d3fb",
             "name": "Pants",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
@@ -8536,7 +8536,7 @@
             "type": "folder",
             "guid": "02837bb6-d627-468f-b491-62dc4d0deb4e",
             "name": "Shirts",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
@@ -13306,7 +13306,7 @@
             "type": "folder",
             "guid": "07f4071c-64d7-4156-808b-df13c394579a",
             "name": "Hats",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -19840,7 +19840,7 @@
                 "type": "folder",
                 "guid": "bc262674-0870-46c0-9992-118da5ebd15b",
                 "name": "Formal",
-                "isExpanded": false,
+                "isExpanded": true,
                 "children": [
                   {
                     "type": "folder",
@@ -20904,7 +20904,7 @@
                     "type": "folder",
                     "guid": "6a14ff7b-cdf4-49a6-b0b0-69a1ed16f61f",
                     "name": "Tophat",
-                    "isExpanded": false,
+                    "isExpanded": true,
                     "children": [
                       {
                         "type": "asset",
@@ -21752,7 +21752,7 @@
                         "asset": {
                           "type": "item/clothing/hat",
                           "guid": "6cf257c4-68ab-468e-9bfa-68a5d78d2bc0",
-                          "id": 46648,
+                          "id": 46708,
                           "name": "White",
                           "editorComment": "",
                           "assetBundleVersion": 4,
@@ -21857,7 +21857,7 @@
                         "asset": {
                           "type": "item/clothing/hat",
                           "guid": "42945544-406f-41e9-95e2-6ab177d643e3",
-                          "id": 46649,
+                          "id": 46709,
                           "name": "Yellow",
                           "editorComment": "",
                           "assetBundleVersion": 4,
