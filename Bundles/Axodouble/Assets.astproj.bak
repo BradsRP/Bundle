@@ -30,7 +30,7 @@
             "type": "folder",
             "guid": "ff4419d2-fc62-40ea-bb8e-e0f35f4b7a8f",
             "name": "Foliage",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "asset",
@@ -2569,7 +2569,7 @@
                 "type": "folder",
                 "guid": "d2b93d94-6718-47e9-acec-91d32b44b3f2",
                 "name": "Supplies",
-                "isExpanded": false,
+                "isExpanded": true,
                 "children": [
                   {
                     "type": "folder",
@@ -3961,13 +3961,13 @@
                     "type": "folder",
                     "guid": "0e51edb4-df53-4b1c-bff2-114447d6ae7f",
                     "name": "Heads",
-                    "isExpanded": false,
+                    "isExpanded": true,
                     "children": [
                       {
                         "type": "folder",
                         "guid": "9ecff660-f26d-49b1-a5d4-b9c981a2f7e0",
                         "name": "Axe",
-                        "isExpanded": false,
+                        "isExpanded": true,
                         "children": [
                           {
                             "type": "asset",
@@ -3975,7 +3975,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "c09e6922-a19b-4fc5-821c-057e39b0bbbf",
-                              "id": 46526,
+                              "id": 46546,
                               "name": "Cobalt_Axe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4060,7 +4060,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "ef25d361-6943-493f-ac3d-19d4b83693ce",
-                              "id": 46522,
+                              "id": 46542,
                               "name": "Copper_Axe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4145,7 +4145,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "55932a59-3954-4234-adf0-9f8ff3e607a7",
-                              "id": 46524,
+                              "id": 46544,
                               "name": "Gold_Axe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4230,7 +4230,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "d08917a4-0f34-4d5a-8443-b421a1f2fb5e",
-                              "id": 46523,
+                              "id": 46543,
                               "name": "Iron_Axe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4315,7 +4315,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "17a37b55-dc44-4c6b-84f4-e43cd86a1582",
-                              "id": 46525,
+                              "id": 46545,
                               "name": "Platinum_Axe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4400,7 +4400,7 @@
                         "type": "folder",
                         "guid": "e0d60f5f-86c7-470e-a406-7d6d78d13153",
                         "name": "Pickaxe",
-                        "isExpanded": false,
+                        "isExpanded": true,
                         "children": [
                           {
                             "type": "asset",
@@ -4408,7 +4408,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "25713143-0e22-4d7f-a68b-a27ef79a4488",
-                              "id": 46536,
+                              "id": 46556,
                               "name": "Cobalt_Pickaxe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4493,7 +4493,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "c94d9444-bf96-4416-899b-f9a1e63382ca",
-                              "id": 46532,
+                              "id": 46552,
                               "name": "Copper_Pickaxe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4578,7 +4578,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "1ef6fd61-5c97-4ba3-9f53-506872430a9f",
-                              "id": 46534,
+                              "id": 46554,
                               "name": "Gold_Pickaxe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4663,7 +4663,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "6cfcb50b-7941-42af-8e03-335f2ff11a45",
-                              "id": 46533,
+                              "id": 46553,
                               "name": "Iron_Pickaxe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4748,7 +4748,7 @@
                             "asset": {
                               "type": "item/supply",
                               "guid": "2ef6d932-957e-4bc5-83b7-9565bed3a727",
-                              "id": 46535,
+                              "id": 46555,
                               "name": "Platinum_Pickaxe_Head",
                               "editorComment": null,
                               "assetBundleVersion": 4,
@@ -4841,13 +4841,13 @@
         "type": "folder",
         "guid": "b5d229a9-bffa-4ec6-bddb-b8e022bc472f",
         "name": "City",
-        "isExpanded": false,
+        "isExpanded": true,
         "children": [
           {
             "type": "folder",
             "guid": "9a964f15-e180-4fc7-b73d-2bf2ed95375f",
             "name": "Items",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -4963,6 +4963,170 @@
                       "ignoreHand": false,
                       "characterMeshOverrideLODs": 1,
                       "hasCharacterMaterialOverride": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "guid": "4f609d19-9875-46aa-9e54-400feb8c553e",
+                "name": "Barricades",
+                "isExpanded": true,
+                "children": [
+                  {
+                    "type": "asset",
+                    "guid": "782f3103-5194-4b4e-9bdb-74d6e38ea9d4",
+                    "asset": {
+                      "type": "item/barricades/barricade",
+                      "guid": "5f1ba88a-0f3e-4b28-871a-66c104fc4af0",
+                      "id": 46810,
+                      "name": "Carlift",
+                      "editorComment": null,
+                      "assetBundleVersion": 1,
+                      "editorMarker": "None",
+                      "unityBundleLocation": "",
+                      "excludeFromMasterBundle": false,
+                      "enableShaderConsolidation": null,
+                      "ignoreNPOT": false,
+                      "ignoreTexRW": false,
+                      "bypassIdLimit": false,
+                      "masterBundleOverride": "",
+                      "bundleOverridePath": "",
+                      "isPro": false,
+                      "bypassHashVerification": false,
+                      "overrideShowQuality": false,
+                      "shouldDropOnDeath": true,
+                      "allowManualDrop": true,
+                      "shouldDeleteAtZeroQuality": false,
+                      "useAutoIconMeasurements": true,
+                      "itemName": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "Carlift"
+                          }
+                        ]
+                      },
+                      "itemDescription": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "A lift, for cars."
+                          }
+                        ]
+                      },
+                      "rarity": "RARE",
+                      "sizeX": 2,
+                      "sizeY": 2,
+                      "qualityMin": 10,
+                      "qualityMax": 90,
+                      "countMin": 1,
+                      "countMax": 1,
+                      "useableType": "Barricade",
+                      "amount": 1,
+                      "sharedSkinLookupID": 0,
+                      "sizeZ": 0.6,
+                      "sizeZ2": -1.0,
+                      "isBackward": false,
+                      "shouldProcedurallyAnimateInertia": true,
+                      "canPlayerEquip": null,
+                      "equipableMovementSpeedMultiplier": 1.0,
+                      "canUseUnderwater": null,
+                      "slot": "None",
+                      "shouldDestroyItemColliders": true,
+                      "instantiatedItemNameOverride": null,
+                      "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                      "isEligibleForAutoStatDescriptions": true,
+                      "econIconUseId": false,
+                      "inventoryAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "inspectAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipablePrefab": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "blueprints": [
+                        {
+                          "type": "utilities",
+                          "skill": "CRAFT",
+                          "skillLevel": 3,
+                          "tool": 76,
+                          "buildEffect": 27,
+                          "toolCritical": false,
+                          "map": "",
+                          "conditions": [],
+                          "rewards": [],
+                          "supplies": [
+                            {
+                              "id": 1222,
+                              "amount": 1,
+                              "isCritical": false,
+                              "refParentItem": false
+                            },
+                            {
+                              "id": 285,
+                              "amount": 2,
+                              "isCritical": false,
+                              "refParentItem": false
+                            }
+                          ],
+                          "transferState": false,
+                          "products": [
+                            {
+                              "id": 1255,
+                              "amount": 1,
+                              "origin": "CRAFT",
+                              "refParentItem": true
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "salvageItem": {
+                        "guid": null
+                      },
+                      "minItemsDroppedOnDestroy": 0,
+                      "maxItemsDroppedOnDestroy": 0,
+                      "droppedItem": {
+                        "guid": null
+                      },
+                      "build": "SPOT",
+                      "health": 300,
+                      "range": 4.0,
+                      "radius": 0.5,
+                      "offset": 1.0,
+                      "explosionEffect": 36,
+                      "canBeDamaged": true,
+                      "eligibleForPooling": null,
+                      "isLocked": false,
+                      "isVulnerable": false,
+                      "bypassClaim": false,
+                      "allowPlacementOnVehicle": null,
+                      "isRepairable": true,
+                      "isExplosionProof": false,
+                      "isPickable": true,
+                      "bypassPickupOwnership": null,
+                      "allowPlacementInsideClipVolumes": null,
+                      "isSalvageable": true,
+                      "salvageDurationMultiplier": 1.0,
+                      "isSaveable": true,
+                      "allowCollisionWhileAnimating": false,
+                      "useWaterHeightTransparentSort": false,
+                      "armorTier": "LOW",
+                      "hasClipPrefab": false,
+                      "useRedirectableAsset": {
+                        "bundle": "",
+                        "path": "Sounds/MetalPlacement.mp3"
+                      }
                     }
                   }
                 ]

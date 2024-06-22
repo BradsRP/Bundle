@@ -24,13 +24,13 @@
         "type": "folder",
         "guid": "923d87c3-5ca0-4fea-b5ec-8cde3c04ab2a",
         "name": "Mining",
-        "isExpanded": true,
+        "isExpanded": false,
         "children": [
           {
             "type": "folder",
             "guid": "ff4419d2-fc62-40ea-bb8e-e0f35f4b7a8f",
             "name": "Foliage",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "asset",
@@ -724,7 +724,7 @@
             "type": "folder",
             "guid": "2c123d8c-25df-4646-b89a-584d01052799",
             "name": "Items",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
@@ -4841,13 +4841,13 @@
         "type": "folder",
         "guid": "b5d229a9-bffa-4ec6-bddb-b8e022bc472f",
         "name": "City",
-        "isExpanded": false,
+        "isExpanded": true,
         "children": [
           {
             "type": "folder",
             "guid": "9a964f15-e180-4fc7-b73d-2bf2ed95375f",
             "name": "Items",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -4963,6 +4963,170 @@
                       "ignoreHand": false,
                       "characterMeshOverrideLODs": 1,
                       "hasCharacterMaterialOverride": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "guid": "4f609d19-9875-46aa-9e54-400feb8c553e",
+                "name": "Barricades",
+                "isExpanded": true,
+                "children": [
+                  {
+                    "type": "asset",
+                    "guid": "782f3103-5194-4b4e-9bdb-74d6e38ea9d4",
+                    "asset": {
+                      "type": "item/barricades/barricade",
+                      "guid": "5f1ba88a-0f3e-4b28-871a-66c104fc4af0",
+                      "id": 46810,
+                      "name": "Carlift",
+                      "editorComment": null,
+                      "assetBundleVersion": 1,
+                      "editorMarker": "None",
+                      "unityBundleLocation": "",
+                      "excludeFromMasterBundle": false,
+                      "enableShaderConsolidation": null,
+                      "ignoreNPOT": false,
+                      "ignoreTexRW": false,
+                      "bypassIdLimit": false,
+                      "masterBundleOverride": "",
+                      "bundleOverridePath": "",
+                      "isPro": false,
+                      "bypassHashVerification": false,
+                      "overrideShowQuality": false,
+                      "shouldDropOnDeath": true,
+                      "allowManualDrop": true,
+                      "shouldDeleteAtZeroQuality": false,
+                      "useAutoIconMeasurements": true,
+                      "itemName": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "Carlift"
+                          }
+                        ]
+                      },
+                      "itemDescription": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "A lift, for cars."
+                          }
+                        ]
+                      },
+                      "rarity": "RARE",
+                      "sizeX": 2,
+                      "sizeY": 2,
+                      "qualityMin": 10,
+                      "qualityMax": 90,
+                      "countMin": 1,
+                      "countMax": 1,
+                      "useableType": "Barricade",
+                      "amount": 1,
+                      "sharedSkinLookupID": 0,
+                      "sizeZ": 0.6,
+                      "sizeZ2": -1.0,
+                      "isBackward": false,
+                      "shouldProcedurallyAnimateInertia": true,
+                      "canPlayerEquip": null,
+                      "equipableMovementSpeedMultiplier": 1.0,
+                      "canUseUnderwater": null,
+                      "slot": "None",
+                      "shouldDestroyItemColliders": true,
+                      "instantiatedItemNameOverride": null,
+                      "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                      "isEligibleForAutoStatDescriptions": true,
+                      "econIconUseId": false,
+                      "inventoryAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "inspectAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipablePrefab": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "blueprints": [
+                        {
+                          "type": "utilities",
+                          "skill": "CRAFT",
+                          "skillLevel": 3,
+                          "tool": 76,
+                          "buildEffect": 27,
+                          "toolCritical": false,
+                          "map": "",
+                          "conditions": [],
+                          "rewards": [],
+                          "supplies": [
+                            {
+                              "id": 1222,
+                              "amount": 1,
+                              "isCritical": false,
+                              "refParentItem": false
+                            },
+                            {
+                              "id": 285,
+                              "amount": 2,
+                              "isCritical": false,
+                              "refParentItem": false
+                            }
+                          ],
+                          "transferState": false,
+                          "products": [
+                            {
+                              "id": 46810,
+                              "amount": 1,
+                              "origin": "CRAFT",
+                              "refParentItem": true
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "salvageItem": {
+                        "guid": null
+                      },
+                      "minItemsDroppedOnDestroy": 0,
+                      "maxItemsDroppedOnDestroy": 0,
+                      "droppedItem": {
+                        "guid": null
+                      },
+                      "build": "SPOT",
+                      "health": 300,
+                      "range": 4.0,
+                      "radius": 0.5,
+                      "offset": 0.0,
+                      "explosionEffect": 36,
+                      "canBeDamaged": true,
+                      "eligibleForPooling": null,
+                      "isLocked": false,
+                      "isVulnerable": false,
+                      "bypassClaim": false,
+                      "allowPlacementOnVehicle": null,
+                      "isRepairable": true,
+                      "isExplosionProof": false,
+                      "isPickable": true,
+                      "bypassPickupOwnership": null,
+                      "allowPlacementInsideClipVolumes": null,
+                      "isSalvageable": true,
+                      "salvageDurationMultiplier": 1.0,
+                      "isSaveable": true,
+                      "allowCollisionWhileAnimating": false,
+                      "useWaterHeightTransparentSort": false,
+                      "armorTier": "LOW",
+                      "hasClipPrefab": false,
+                      "useRedirectableAsset": {
+                        "bundle": "",
+                        "path": "Sounds/MetalPlacement.mp3"
+                      }
                     }
                   }
                 ]
