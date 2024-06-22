@@ -27,6 +27,6 @@
 	"Allow_Manual_Drop" "true"
 	"Should_Delete_At_Zero_Quality" "false"
 	"Destroy_Item_Colliders" "true"
-	"ID" "46525"
+	"ID" "46545"
 	"Asset_Bundle_Version" "4"
 }
