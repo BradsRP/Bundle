@@ -1,4 +1,4 @@
-"Available_Instance_ID" "157"
+"Available_Instance_ID" "163"
 "Items"
 [
 	{
@@ -245598,35 +245598,6 @@
 		}
 	}
 	{
-		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "33"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-663.3834"
-				"Y" "121.2462"
-				"Z" "1055.126"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "93.47054"
-				"Y" "39.78946"
-				"Z" "74.34935"
-			}
-			"Shape" "Box"
-			"No_Weapons" "true"
-			"No_Buildables" "true"
-		}
-	}
-	{
 		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 		"Instance_ID" "35"
 		"Item"
@@ -248667,6 +248638,141 @@
 			}
 			"LocationName" "Training"
 			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "157"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-533.5972"
+				"Y" "26.22157"
+				"Z" "-850.051"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.1305261"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "38.54765"
+				"Y" "23.01214"
+				"Z" "37.24599"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "158"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-329.6969"
+				"Y" "86.50288"
+				"Z" "771.9161"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1039924"
+				"Z" "0"
+				"W" "0.9945781"
+			}
+			"Scale"
+			{
+				"X" "254.6711"
+				"Y" "7.03043"
+				"Z" "43.83225"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "159"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-61.1299"
+				"Y" "41.28869"
+				"Z" "712.3455"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.2588193"
+				"Z" "0"
+				"W" "0.9659258"
+			}
+			"Scale"
+			{
+				"X" "65.76286"
+				"Y" "24.71266"
+				"Z" "81.06793"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "160"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-933.2611"
+				"Y" "92.96815"
+				"Z" "929.1858"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "56.119"
+				"Y" "56.119"
+				"Z" "56.119"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "162"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-834.0113"
+				"Y" "189.6517"
+				"Z" "1253.159"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "21.26678"
+				"Y" "17.79871"
+				"Z" "29.71689"
+			}
+			"Shape" "Box"
 		}
 	}
 ]
