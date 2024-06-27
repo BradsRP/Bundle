@@ -6344,6 +6344,44 @@
                           "decalLODBias": null,
                           "decalAlpha": true
                         }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "f712a470-3b2b-4e6a-9c53-7a76122b5aba",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "bb85dabd-af0c-4a88-baf6-3904202b00f1",
+                          "id": 0,
+                          "name": "Ducked",
+                          "editorComment": null,
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Ducked #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 1.0,
+                          "decalSizeY": 1.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
                       }
                     ]
                   }

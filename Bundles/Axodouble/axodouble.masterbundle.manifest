@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2491315418
+CRC: 1921143128
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8c3e816f4641fd90bee995415bf3afb
+    Hash: 6dcaba01af7610d6f612c368ecf9407c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -651,6 +651,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Pink/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Item.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Ducked/Decal.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Black/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Purple/Item.mat
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Cobalt_Pickaxe_Head/Item.prefab
