@@ -6263,8 +6263,8 @@
                           "halloweenRedirect": null,
                           "isGore": false,
                           "conditions": [],
-                          "decalSizeX": 9.0,
-                          "decalSizeY": 3.0,
+                          "decalSizeX": 2.0,
+                          "decalSizeY": 2.0,
                           "decalLODBias": null,
                           "decalAlpha": true
                         }
