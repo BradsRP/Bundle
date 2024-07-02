@@ -1,4 +1,4 @@
-"Available_Instance_ID" "163"
+"Available_Instance_ID" "165"
 "Items"
 [
 	{
@@ -248773,6 +248773,62 @@
 				"Z" "29.71689"
 			}
 			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "163"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-604.4144"
+				"Y" "33.93958"
+				"Z" "352.821"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Lumberyard"
+			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "164"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "805.693"
+				"Y" "89.61801"
+				"Z" "834.9175"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "Mine"
+			"IsVisibleOnMap" "true"
 		}
 	}
 ]
