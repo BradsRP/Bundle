@@ -2,7 +2,7 @@
 GUID 140d0d91dd5849fcb366f14f9a2ac1c8
 Type Vendor
 ID 24220
-Selling 15
+Selling 16
 Selling_0_ID 47396
 Selling_0_Cost 300
 Selling_1_ID 1096
@@ -33,4 +33,6 @@ Selling_13_ID 1328
 Selling_13_Cost 300
 Selling_14_ID 1327
 Selling_14_Cost 300
+Selling_15_ID 46811
+Selling_15_Cost 300
 Disable_Sorting

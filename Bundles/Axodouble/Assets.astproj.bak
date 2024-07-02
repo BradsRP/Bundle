@@ -4847,7 +4847,7 @@
             "type": "folder",
             "guid": "4401ff70-bfe7-4e79-bbe3-815e3b78bc9e",
             "name": "Items",
-            "isExpanded": true,
+            "isExpanded": false,
             "children": [
               {
                 "type": "folder",
@@ -5019,7 +5019,7 @@
                       "guid": "f1e97a01-ed71-4a10-ada7-202801d443fc",
                       "id": 46811,
                       "name": "Note",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 1,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
@@ -5137,7 +5137,7 @@
                       "droppedItem": {
                         "guid": null
                       },
-                      "build": "CHARGE",
+                      "build": "NOTE",
                       "health": 100,
                       "range": 4.0,
                       "radius": 0.0,
@@ -5159,7 +5159,7 @@
                       "isSaveable": true,
                       "allowCollisionWhileAnimating": false,
                       "useWaterHeightTransparentSort": false,
-                      "armorTier": "LOW",
+                      "armorTier": "HIGH",
                       "hasClipPrefab": false,
                       "useRedirectableAsset": {
                         "bundle": "",
@@ -5293,7 +5293,7 @@
             "type": "folder",
             "guid": "c1d9b05b-e48f-40a2-8a29-9d56e1f39e2f",
             "name": "Objects",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -6176,6 +6176,174 @@
                             }
                           }
                         ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "guid": "ca66099f-df2f-423b-a8ed-4be283ac22a8",
+                "name": "Decals",
+                "isExpanded": true,
+                "children": [
+                  {
+                    "type": "folder",
+                    "guid": "4d807c12-cacf-4bd1-bba5-d880e58382d3",
+                    "name": "Graffiti",
+                    "isExpanded": true,
+                    "children": [
+                      {
+                        "type": "asset",
+                        "guid": "8c30bcb5-d500-43d1-acfd-321acaf79193",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "995306d0-8b28-4d6a-adc2-c9dc705572d1",
+                          "id": 0,
+                          "name": "Svarta",
+                          "editorComment": null,
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Svarta Ornen #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 9.0,
+                          "decalSizeY": 3.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "8c014bf1-dd63-407c-b8c3-4b990b775463",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "9f8acdb3-44f8-4542-ad2d-30206488105c",
+                          "id": 0,
+                          "name": "Empire",
+                          "editorComment": null,
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Empire Inc #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 2.0,
+                          "decalSizeY": 2.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "360b109a-9636-4fa9-b4e7-63f4501e05c7",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "e37df5b6-c42c-4ef6-9b4e-3a4fa7de7496",
+                          "id": 0,
+                          "name": "Saints",
+                          "editorComment": null,
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Saints #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 1.0,
+                          "decalSizeY": 1.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "b6418fa2-577f-46d3-aca6-af390d5e1dfd",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "11e45cb1-767e-4b9c-8b2d-5bafeb82760a",
+                          "id": 0,
+                          "name": "Entropy",
+                          "editorComment": null,
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Entropy #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 2.0,
+                          "decalSizeY": 2.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
                       }
                     ]
                   }
