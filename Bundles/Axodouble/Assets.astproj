@@ -6201,7 +6201,7 @@
                           "guid": "995306d0-8b28-4d6a-adc2-c9dc705572d1",
                           "id": 0,
                           "name": "Svarta",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 5,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -6239,7 +6239,7 @@
                           "guid": "9f8acdb3-44f8-4542-ad2d-30206488105c",
                           "id": 0,
                           "name": "Empire",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 5,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -6277,7 +6277,7 @@
                           "guid": "e37df5b6-c42c-4ef6-9b4e-3a4fa7de7496",
                           "id": 0,
                           "name": "Saints",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 5,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -6315,7 +6315,7 @@
                           "guid": "11e45cb1-767e-4b9c-8b2d-5bafeb82760a",
                           "id": 0,
                           "name": "Entropy",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 5,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -6353,7 +6353,7 @@
                           "guid": "bb85dabd-af0c-4a88-baf6-3904202b00f1",
                           "id": 0,
                           "name": "Ducked",
-                          "editorComment": null,
+                          "editorComment": "",
                           "assetBundleVersion": 5,
                           "editorMarker": "None",
                           "unityBundleLocation": "",
@@ -6379,6 +6379,82 @@
                           "conditions": [],
                           "decalSizeX": 1.0,
                           "decalSizeY": 1.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "52d8f959-aebc-4fb4-a45e-d3f5d998fed5",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "5b670c45-c7ce-42e7-ac13-fb04ec01990c",
+                          "id": 0,
+                          "name": "Read the Rules",
+                          "editorComment": "",
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Read the Rules #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 2.0,
+                          "decalSizeY": 1.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "a77816e5-9af2-4f3f-88cd-c2ab22bae666",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "b62a7d9b-36bc-477f-a680-ea0dbf514c2c",
+                          "id": 0,
+                          "name": "Who Takes Your Vote",
+                          "editorComment": "",
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "Who takes your vote? #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 4.0,
+                          "decalSizeY": 3.0,
                           "decalLODBias": null,
                           "decalAlpha": true
                         }

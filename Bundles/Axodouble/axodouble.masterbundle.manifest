@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1921143128
+CRC: 1248595045
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6dcaba01af7610d6f612c368ecf9407c
+    Hash: 59d3c725720c12d0e42b54ef5c7f8dc3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -735,6 +735,7 @@ Assets:
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/White/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Read the Rules/Decal.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Item.prefab
 - Assets/Axodouble/Clothing/Sources/Materials/White.mat
