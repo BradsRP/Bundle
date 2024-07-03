@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1248595045
+CRC: 1241097847
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 59d3c725720c12d0e42b54ef5c7f8dc3
+    Hash: 7fe8fe4d0bba0bd8524ce6a7e748ac4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -147,6 +147,7 @@ Assets:
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Black/Shirt.png
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Who Takes Your Vote/Decal.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Blue/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Orange/Item.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Green/Item.prefab
