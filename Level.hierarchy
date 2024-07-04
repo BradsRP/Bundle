@@ -245934,6 +245934,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -246283,6 +246287,10 @@
 			}
 			"Shape" "Box"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -246311,6 +246319,10 @@
 			}
 			"Shape" "Box"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -247800,6 +247812,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -247828,6 +247844,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -247856,6 +247876,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -247884,6 +247908,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
@@ -247912,6 +247940,10 @@
 			}
 			"Shape" "Sphere"
 			"Deadzone_Type" "DefaultRadiation"
+			"UnprotectedDamagePerSecond" "0"
+			"ProtectedDamagePerSecond" "0"
+			"UnprotectedRadiationPerSecond" "6.25"
+			"MaskFilterDamagePerSecond" "0.4"
 		}
 	}
 	{
