@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1241097847
+CRC: 1684052229
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7fe8fe4d0bba0bd8524ce6a7e748ac4b
+    Hash: 4082eb0dec27332bf912c4286ad3a2e5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -243,8 +243,8 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Purple/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Hat.prefab
+- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Animations.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Empire/Decal.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Item.prefab
@@ -570,11 +570,12 @@ Assets:
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Object.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Red/Item.prefab
-- Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Purple/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/1v4/Decal.png
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Yellow/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Item.mat
+- Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Mining/Trees/Copper_0/Stump.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Animations.prefab
