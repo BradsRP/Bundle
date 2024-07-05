@@ -1,4 +1,4 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.13-alpha
+// This file was generated in BowieD's AssetEditor 0.0.14-alpha
 "Metadata"
 {
 	"GUID" "2ef6d932957e4bc583b79565bed3a727"
@@ -23,6 +23,7 @@
 	"Slot" "None"
 	"Blueprints" "0"
 	"Actions" "0"
+	"Add_Default_Actions" "true"
 	"Should_Drop_On_Death" "true"
 	"Allow_Manual_Drop" "true"
 	"Should_Delete_At_Zero_Quality" "false"

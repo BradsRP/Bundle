@@ -1,5 +1,5 @@
 ﻿{
-  "version": 4,
+  "version": 5,
   "name": "Axodouble",
   "notes": "",
   "settings": {
@@ -406,6 +406,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -463,6 +464,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -520,6 +522,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -577,6 +580,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -634,6 +638,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -691,6 +696,7 @@
                     ]
                   },
                   "hasAutoSkybox": false,
+                  "health": 0,
                   "radius": 4.0,
                   "scale": 0.3,
                   "verticalOffset": null,
@@ -856,6 +862,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.25,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1037,6 +1044,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.25,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1218,6 +1226,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.25,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1399,6 +1408,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.25,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1580,6 +1590,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.25,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1769,6 +1780,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.0,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -1951,6 +1963,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.0,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -2133,6 +2146,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.0,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -2315,6 +2329,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.0,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -2497,6 +2512,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "range": 2.0,
                           "playerDamageBleeding": "None",
                           "playerDamageBones": "None",
@@ -2660,6 +2676,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "salvageItem": {
                             "guid": null
                           },
@@ -2797,6 +2814,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "salvageItem": {
                             "guid": null
                           },
@@ -2934,6 +2952,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "salvageItem": {
                             "guid": null
                           },
@@ -3071,6 +3090,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "salvageItem": {
                             "guid": null
                           },
@@ -3208,6 +3228,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "salvageItem": {
                             "guid": null
                           },
@@ -3352,7 +3373,8 @@
                             "path": ""
                           },
                           "blueprints": [],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       },
                       {
@@ -3472,7 +3494,8 @@
                               ]
                             }
                           ],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       },
                       {
@@ -3592,7 +3615,8 @@
                               ]
                             }
                           ],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       },
                       {
@@ -3712,7 +3736,8 @@
                               ]
                             }
                           ],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       },
                       {
@@ -3832,7 +3857,8 @@
                               ]
                             }
                           ],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       },
                       {
@@ -3952,7 +3978,8 @@
                               ]
                             }
                           ],
-                          "actions": []
+                          "actions": [],
+                          "addDefaultActions": true
                         }
                       }
                     ]
@@ -4051,7 +4078,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4136,7 +4164,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4221,7 +4250,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4306,7 +4336,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4391,7 +4422,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           }
                         ]
@@ -4484,7 +4516,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4569,7 +4602,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4654,7 +4688,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4739,7 +4774,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           },
                           {
@@ -4824,7 +4860,8 @@
                                 "path": ""
                               },
                               "blueprints": [],
-                              "actions": []
+                              "actions": [],
+                              "addDefaultActions": true
                             }
                           }
                         ]
@@ -4973,6 +5010,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "salvageItem": {
                         "guid": null
                       },
@@ -5129,6 +5167,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "salvageItem": {
                         "guid": null
                       },
@@ -5258,6 +5297,7 @@
                       },
                       "blueprints": [],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -6458,6 +6498,44 @@
                           "decalLODBias": null,
                           "decalAlpha": true
                         }
+                      },
+                      {
+                        "type": "asset",
+                        "guid": "7366ae2a-3b4c-4fa0-9421-153761ec3afe",
+                        "asset": {
+                          "type": "object/decal",
+                          "guid": "909eec16-c183-4352-b97e-b918740f6b25",
+                          "id": 0,
+                          "name": "1v4",
+                          "editorComment": "",
+                          "assetBundleVersion": 5,
+                          "editorMarker": "None",
+                          "unityBundleLocation": "",
+                          "excludeFromMasterBundle": false,
+                          "enableShaderConsolidation": null,
+                          "ignoreNPOT": false,
+                          "ignoreTexRW": false,
+                          "bypassIdLimit": false,
+                          "masterBundleOverride": "",
+                          "bundleOverridePath": "",
+                          "objectName": {
+                            "pairs": [
+                              {
+                                "language": "English",
+                                "text": "1v4 #1"
+                              }
+                            ]
+                          },
+                          "holidayRestriction": "NONE",
+                          "christmasRedirect": null,
+                          "halloweenRedirect": null,
+                          "isGore": false,
+                          "conditions": [],
+                          "decalSizeX": 4.0,
+                          "decalSizeY": 3.0,
+                          "decalLODBias": null,
+                          "decalAlpha": true
+                        }
                       }
                     ]
                   }
@@ -6597,6 +6675,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -6732,6 +6811,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -6867,6 +6947,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7002,6 +7083,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7137,6 +7219,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7272,6 +7355,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7407,6 +7491,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7542,6 +7627,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7677,6 +7763,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7812,6 +7899,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -7955,6 +8043,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8090,6 +8179,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8225,6 +8315,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8360,6 +8451,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8495,6 +8587,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8630,6 +8723,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8765,6 +8859,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -8900,6 +8995,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9035,6 +9131,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9170,6 +9267,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9321,6 +9419,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9460,6 +9559,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9599,6 +9699,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9738,6 +9839,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -9877,6 +9979,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10016,6 +10119,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10155,6 +10259,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10294,6 +10399,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10433,6 +10539,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10572,6 +10679,7 @@
                         }
                       ],
                       "actions": [],
+                      "addDefaultActions": true,
                       "armor": 1.0,
                       "explosionArmor": 1.0,
                       "fallingDamageMultiplier": 1.0,
@@ -10753,6 +10861,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -10920,6 +11029,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11087,6 +11197,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11254,6 +11365,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11421,6 +11533,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11588,6 +11701,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11755,6 +11869,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -11922,6 +12037,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12089,6 +12205,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12256,6 +12373,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12431,6 +12549,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12598,6 +12717,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12765,6 +12885,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -12932,6 +13053,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13099,6 +13221,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13266,6 +13389,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13433,6 +13557,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13600,6 +13725,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13767,6 +13893,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -13934,6 +14061,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14125,6 +14253,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14287,6 +14416,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14449,6 +14579,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14611,6 +14742,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14773,6 +14905,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -14935,6 +15068,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15097,6 +15231,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15259,6 +15394,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15421,6 +15557,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15583,6 +15720,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15753,6 +15891,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -15915,6 +16054,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16077,6 +16217,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16239,6 +16380,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16401,6 +16543,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16563,6 +16706,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16725,6 +16869,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -16887,6 +17032,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17049,6 +17195,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17211,6 +17358,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17389,6 +17537,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17551,6 +17700,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17713,6 +17863,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -17875,6 +18026,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18037,6 +18189,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18199,6 +18352,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18361,6 +18515,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18523,6 +18678,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18685,6 +18841,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -18847,6 +19004,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19017,6 +19175,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19179,6 +19338,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19341,6 +19501,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19503,6 +19664,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19665,6 +19827,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19827,6 +19990,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -19989,6 +20153,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20151,6 +20316,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20313,6 +20479,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20475,6 +20642,7 @@
                             }
                           ],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20596,6 +20764,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20701,6 +20870,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20806,6 +20976,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -20911,6 +21082,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21016,6 +21188,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21121,6 +21294,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21226,6 +21400,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21331,6 +21506,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21436,6 +21612,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21541,6 +21718,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21654,6 +21832,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21759,6 +21938,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21864,6 +22044,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -21969,6 +22150,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22074,6 +22256,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22179,6 +22362,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22284,6 +22468,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22389,6 +22574,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22494,6 +22680,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22599,6 +22786,7 @@
                           },
                           "blueprints": [],
                           "actions": [],
+                          "addDefaultActions": true,
                           "armor": 1.0,
                           "explosionArmor": 1.0,
                           "fallingDamageMultiplier": 1.0,
@@ -22718,6 +22906,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -22823,6 +23012,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -22928,6 +23118,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23033,6 +23224,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23138,6 +23330,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23243,6 +23436,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23348,6 +23542,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23453,6 +23648,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23558,6 +23754,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23663,6 +23860,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23776,6 +23974,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23881,6 +24080,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -23986,6 +24186,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24091,6 +24292,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24196,6 +24398,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24301,6 +24504,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24406,6 +24610,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24511,6 +24716,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24616,6 +24822,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
@@ -24721,6 +24928,7 @@
                               },
                               "blueprints": [],
                               "actions": [],
+                              "addDefaultActions": true,
                               "armor": 1.0,
                               "explosionArmor": 1.0,
                               "fallingDamageMultiplier": 1.0,
