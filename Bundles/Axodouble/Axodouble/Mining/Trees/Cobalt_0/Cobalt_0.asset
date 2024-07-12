@@ -6,12 +6,12 @@
 }
 "Asset"
 {
-	"Health" "0"
+	"Health" "500"
 	"Radius" "4"
 	"Scale" "0.3"
 	"Explosion" "52"
 	"Log" "46506"
-	"Stick" "0"
+	"Stick" "46506"
 	"Reward_ID" "0"
 	"Reward_XP" "6"
 	"Reward_Min" "3"
@@ -19,7 +19,7 @@
 	"BladeID" "2"
 	"Vulnerable_To_Fists" "false"
 	"Vulnerable_To_All_Melee_Weapons" "false"
-	"Reset" "1000"
+	"Reset" "600"
 	"Forage_Reward_Experience" "1"
 	"No_Debris" ""
 	"Chart" "NONE"
