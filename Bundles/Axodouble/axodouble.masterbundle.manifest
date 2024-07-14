@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 220425173
+CRC: 3191284874
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23564bf8358c0a59dd4dd9e484d87dd0
+    Hash: b65ab93601f4e7bac0249c504c54af7c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -162,6 +162,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Purple/Item.mat
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Orange/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.png
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Orange/Animations.prefab
@@ -324,6 +325,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/White/Hat.prefab
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Object.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Purple/Hat.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Use.mp3
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Gold_Axe_Head/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Nav.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Animations.prefab
@@ -337,17 +339,18 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Green/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Gray/Item.prefab
-- Assets/Axodouble/Clothing/Pants/Generic Jeans/Pink/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Barricade.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Blue/Animations.prefab
-- Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Item.prefab
+- Assets/Axodouble/Clothing/Pants/Generic Jeans/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Yellow/Shirt.png
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.png
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Dried/Item.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Pink.png
+- Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Item.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Source.psd
 - Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Animations.prefab
+- Assets/Axodouble/Clothing/Sources/Textures/Pink.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Red/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Hat.prefab
@@ -518,6 +521,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Green/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Drugs/Utilities/Rolling_Paper/Item.prefab
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Nav.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Blue/Character_Mesh_3P_Override_0.prefab
@@ -578,6 +582,7 @@ Assets:
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Yellow/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Hat.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Item.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Character_Mesh_3P_Override_0.prefab
@@ -722,13 +727,14 @@ Assets:
 - Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Hat.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Barricade.prefab
 - Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Material.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
+- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Red/Animations.prefab
+- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Material.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold_Ingot/Use.mp3
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Item.prefab

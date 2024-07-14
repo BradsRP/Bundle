@@ -4914,7 +4914,7 @@
             "type": "folder",
             "guid": "4401ff70-bfe7-4e79-bbe3-815e3b78bc9e",
             "name": "Items",
-            "isExpanded": false,
+            "isExpanded": true,
             "children": [
               {
                 "type": "folder",
@@ -5234,6 +5234,168 @@
                         "bundle": "",
                         "path": ""
                       }
+                    }
+                  },
+                  {
+                    "type": "asset",
+                    "guid": "a5b912ce-5871-48df-be36-d5ef9ca780da",
+                    "asset": {
+                      "type": "item/barricades/charge",
+                      "guid": "4139e938-4a08-4dc1-9b70-9b1cb3d19fe3",
+                      "id": 46812,
+                      "name": "Doorbell_Charge",
+                      "editorComment": null,
+                      "assetBundleVersion": 1,
+                      "editorMarker": "None",
+                      "unityBundleLocation": "",
+                      "excludeFromMasterBundle": false,
+                      "enableShaderConsolidation": null,
+                      "ignoreNPOT": false,
+                      "ignoreTexRW": false,
+                      "bypassIdLimit": false,
+                      "masterBundleOverride": "",
+                      "bundleOverridePath": "",
+                      "isPro": false,
+                      "bypassHashVerification": false,
+                      "overrideShowQuality": false,
+                      "shouldDropOnDeath": true,
+                      "allowManualDrop": true,
+                      "shouldDeleteAtZeroQuality": false,
+                      "useAutoIconMeasurements": true,
+                      "itemName": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "Doorbell"
+                          }
+                        ]
+                      },
+                      "itemDescription": {
+                        "pairs": [
+                          {
+                            "language": "English",
+                            "text": "A pretty effective doorbell, guarantees the opening of doors."
+                          }
+                        ]
+                      },
+                      "rarity": "EPIC",
+                      "sizeX": 1,
+                      "sizeY": 1,
+                      "qualityMin": 10,
+                      "qualityMax": 90,
+                      "countMin": 1,
+                      "countMax": 1,
+                      "useableType": "Barricade",
+                      "amount": 1,
+                      "sharedSkinLookupID": 0,
+                      "sizeZ": 0.325,
+                      "sizeZ2": -1.0,
+                      "isBackward": false,
+                      "shouldProcedurallyAnimateInertia": true,
+                      "canPlayerEquip": null,
+                      "equipableMovementSpeedMultiplier": 1.0,
+                      "canUseUnderwater": null,
+                      "slot": "None",
+                      "shouldDestroyItemColliders": true,
+                      "instantiatedItemNameOverride": null,
+                      "shouldLeftHandedCharactersMirrorEquippedItem": true,
+                      "isEligibleForAutoStatDescriptions": true,
+                      "econIconUseId": false,
+                      "inventoryAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "inspectAudio": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "equipablePrefab": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "blueprints": [
+                        {
+                          "type": "tool",
+                          "skill": "CRAFT",
+                          "skillLevel": 3,
+                          "tool": 0,
+                          "buildEffect": 32,
+                          "toolCritical": false,
+                          "map": "",
+                          "conditions": [],
+                          "rewards": [],
+                          "supplies": [
+                            {
+                              "id": 1241,
+                              "amount": 1,
+                              "isCritical": false,
+                              "refParentItem": false
+                            }
+                          ],
+                          "transferState": false,
+                          "products": [
+                            {
+                              "id": 46812,
+                              "amount": 1,
+                              "origin": "CRAFT",
+                              "refParentItem": true
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "addDefaultActions": true,
+                      "salvageItem": {
+                        "guid": null
+                      },
+                      "minItemsDroppedOnDestroy": 0,
+                      "maxItemsDroppedOnDestroy": 0,
+                      "droppedItem": {
+                        "guid": null
+                      },
+                      "build": "CHARGE",
+                      "health": 1,
+                      "range": 4.0,
+                      "radius": 0.0,
+                      "offset": 0.05,
+                      "explosionEffect": 36,
+                      "canBeDamaged": true,
+                      "eligibleForPooling": null,
+                      "isLocked": false,
+                      "isVulnerable": true,
+                      "bypassClaim": false,
+                      "allowPlacementOnVehicle": null,
+                      "isRepairable": false,
+                      "isExplosionProof": true,
+                      "isPickable": true,
+                      "bypassPickupOwnership": null,
+                      "allowPlacementInsideClipVolumes": null,
+                      "isSalvageable": true,
+                      "salvageDurationMultiplier": 1.0,
+                      "isSaveable": true,
+                      "allowCollisionWhileAnimating": false,
+                      "useWaterHeightTransparentSort": false,
+                      "armorTier": "LOW",
+                      "hasClipPrefab": false,
+                      "useRedirectableAsset": {
+                        "bundle": "",
+                        "path": ""
+                      },
+                      "damageRange": 3.0,
+                      "playerDamage": 250.0,
+                      "zombieDamage": 250.0,
+                      "animalDamage": 250.0,
+                      "barricadeDamage": 2000.0,
+                      "structureDamage": 2000.0,
+                      "vehicleDamage": 1000.0,
+                      "resourceDamage": 4000.0,
+                      "objectDamage": 2000.0,
+                      "explosionLaunchSpeed": null,
+                      "explosion2": 45
                     }
                   }
                 ]
@@ -6585,7 +6747,7 @@
                       "guid": "8fe847b6-05e3-4e9f-aa02-5424fd9f975a",
                       "id": 2,
                       "name": "JCS_Bank_2",
-                      "editorComment": null,
+                      "editorComment": "",
                       "assetBundleVersion": 1,
                       "editorMarker": "None",
                       "unityBundleLocation": "",
