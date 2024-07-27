@@ -71,7 +71,7 @@
 	"Barricade_Damage" "15"
 	"Structure_Damage" "10"
 	"Vehicle_Damage" "25"
-	"Resource_Damage" "85"
+	"Resource_Damage" "75"
 	"Object_Damage" "25"
 	"Durability" "0.15"
 	"Wear" "1"
