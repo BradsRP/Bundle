@@ -6,7 +6,7 @@
 }
 "Asset"
 {
-	"Health" "500"
+	"Health" "450"
 	"Radius" "4"
 	"Scale" "0.3"
 	"Explosion" "49"
@@ -17,8 +17,8 @@
 	"Reward_Min" "7"
 	"Reward_Max" "14"
 	"BladeID" "2"
-	"Vulnerable_To_Fists" "false"
-	"Vulnerable_To_All_Melee_Weapons" "false"
+	"Vulnerable_To_Fists" "true"
+	"Vulnerable_To_All_Melee_Weapons" "true"
 	"Reset" "600"
 	"Forage_Reward_Experience" "1"
 	"No_Debris" ""

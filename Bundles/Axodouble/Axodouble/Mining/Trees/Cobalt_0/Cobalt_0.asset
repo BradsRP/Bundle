@@ -6,7 +6,7 @@
 }
 "Asset"
 {
-	"Health" "500"
+	"Health" "7200"
 	"Radius" "4"
 	"Scale" "0.3"
 	"Explosion" "52"
