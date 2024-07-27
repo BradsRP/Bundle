@@ -1,4 +1,4 @@
-"Available_Instance_ID" "167"
+"Available_Instance_ID" "171"
 "Items"
 [
 	{
@@ -246332,9 +246332,9 @@
 		{
 			"Position"
 			{
-				"X" "-2653.5"
-				"Y" "1.198497"
-				"Z" "2190.893"
+				"X" "-2653.188"
+				"Y" "24.06274"
+				"Z" "2191.135"
 			}
 			"Rotation"
 			{
@@ -248591,9 +248591,9 @@
 		{
 			"Position"
 			{
-				"X" "76.5078"
+				"X" "75.21796"
 				"Y" "72.9583"
-				"Z" "896.0287"
+				"Z" "900.8423"
 			}
 			"Rotation"
 			{
@@ -248604,9 +248604,9 @@
 			}
 			"Scale"
 			{
-				"X" "59.24505"
+				"X" "59.24504"
 				"Y" "11.85476"
-				"Z" "10.84147"
+				"Z" "21.90885"
 			}
 			"Shape" "Box"
 			"Kill_Players" "true"
@@ -248886,6 +248886,87 @@
 				"X" "3.757134"
 				"Y" "14.89454"
 				"Z" "3.672707"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "167"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "492.6388"
+				"Y" "81.58011"
+				"Z" "844.7721"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.3826829"
+				"Z" "0"
+				"W" "0.9238797"
+			}
+			"Scale"
+			{
+				"X" "24.75088"
+				"Y" "22.8622"
+				"Z" "28.37294"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "168"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1256.603"
+				"Y" "34.75759"
+				"Z" "3724.009"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "117.9933"
+				"Y" "31.9507"
+				"Z" "56.74395"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "170"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-773.4388"
+				"Y" "4.626026"
+				"Z" "-751.6718"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "78.88619"
+				"Y" "91.56129"
+				"Z" "132.3239"
 			}
 			"Shape" "Box"
 		}
