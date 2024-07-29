@@ -1,4 +1,4 @@
-"Available_Instance_ID" "171"
+"Available_Instance_ID" "172"
 "Items"
 [
 	{
@@ -245218,7 +245218,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"LocationName" "Duckville Farm"
+			"LocationName" "Fort Pekin"
 			"IsVisibleOnMap" "true"
 		}
 	}
@@ -245386,7 +245386,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"LocationName" "Crescent Resort"
+			"LocationName" "Crescent Island"
 			"IsVisibleOnMap" "true"
 		}
 	}
@@ -248528,22 +248528,22 @@
 		{
 			"Position"
 			{
-				"X" "-533.5972"
+				"X" "-567.6064"
 				"Y" "26.22157"
-				"Z" "-850.051"
+				"Z" "-852.5327"
 			}
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "0.1305261"
+				"Y" "0"
 				"Z" "0"
-				"W" "0.9914449"
+				"W" "1"
 			}
 			"Scale"
 			{
-				"X" "38.54765"
+				"X" "96.4809"
 				"Y" "23.01214"
-				"Z" "37.24599"
+				"Z" "82.57425"
 			}
 			"Shape" "Box"
 		}
