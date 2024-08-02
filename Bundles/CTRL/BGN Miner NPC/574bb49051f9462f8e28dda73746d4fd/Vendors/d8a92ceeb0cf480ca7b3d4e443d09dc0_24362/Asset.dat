@@ -17,12 +17,40 @@ Buying_5_ID 46512
 Buying_5_Cost 300
 Buying_6_ID 46513
 Buying_6_Cost 400
+Buying_6_Conditions 1
+Buying_6_Condition_0_Type Quest
+Buying_6_Condition_0_ID 26104
+Buying_6_Condition_0_Status Completed
+Buying_6_Condition_0_Logic Equal
+Buying_6_Condition_0_Ignore_NPC False
+
 Buying_7_ID 46514
 Buying_7_Cost 500
+Buying_7_Conditions 1
+Buying_7_Condition_0_Type Quest
+Buying_7_Condition_0_ID 26108
+Buying_7_Condition_0_Status Completed
+Buying_7_Condition_0_Logic Equal
+Buying_7_Condition_0_Ignore_NPC False
+
 Buying_8_ID 46515
 Buying_8_Cost 700
+Buying_8_Conditions 1
+Buying_8_Condition_0_Type Quest
+Buying_8_Condition_0_ID 26112
+Buying_8_Condition_0_Status Completed
+Buying_8_Condition_0_Logic Equal
+Buying_8_Condition_0_Ignore_NPC False
+
 Buying_9_ID 46516
 Buying_9_Cost 2000
+Buying_9_Conditions 1
+Buying_9_Condition_0_Type Quest
+Buying_9_Condition_0_ID 26116
+Buying_9_Condition_0_Status Completed
+Buying_9_Condition_0_Logic Equal
+Buying_9_Condition_0_Ignore_NPC False
+
 Selling 8
 Selling_0_ID 1198
 Selling_0_Cost 100
