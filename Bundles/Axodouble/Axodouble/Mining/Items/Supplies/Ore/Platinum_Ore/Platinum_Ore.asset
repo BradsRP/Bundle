@@ -30,6 +30,8 @@
 	"Blueprint_0_Supply_1_Amount" "4"
 	"Blueprint_0_Tool" "0"
 	"Blueprint_0_Build" "0"
+	"Blueprint_0_Skill" "COOK"
+	"Blueprint_0_Level" "1"
 	"Blueprint_0_Map" ""
 	"Blueprint_0_Conditions" "0"
 	"Blueprint_0_Rewards" "0"
