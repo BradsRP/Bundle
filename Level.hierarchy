@@ -1,4 +1,4 @@
-"Available_Instance_ID" "172"
+"Available_Instance_ID" "175"
 "Items"
 [
 	{
@@ -245201,9 +245201,9 @@
 		{
 			"Position"
 			{
-				"X" "-19.08441"
+				"X" "-11.08441"
 				"Y" "33.93958"
-				"Z" "83.54222"
+				"Z" "74.54222"
 			}
 			"Rotation"
 			{
@@ -245218,7 +245218,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"LocationName" "Fort Pekin"
+			"LocationName" "Duckville industrial"
 			"IsVisibleOnMap" "true"
 		}
 	}
@@ -246690,16 +246690,16 @@
 		{
 			"Position"
 			{
-				"X" "1434.744"
-				"Y" "186.5047"
-				"Z" "2802.742"
+				"X" "1471.612"
+				"Y" "186.7113"
+				"Z" "2885.831"
 			}
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "1"
+				"Y" "0.7071068"
 				"Z" "0"
-				"W" "-4.371139E-08"
+				"W" "0.7071068"
 			}
 			"Scale"
 			{
@@ -246718,9 +246718,9 @@
 		{
 			"Position"
 			{
-				"X" "1464.643"
-				"Y" "199.1516"
-				"Z" "2780.472"
+				"X" "1420.151"
+				"Y" "202.2762"
+				"Z" "2826.824"
 			}
 			"Rotation"
 			{
@@ -246731,9 +246731,9 @@
 			}
 			"Scale"
 			{
-				"X" "98.8734"
-				"Y" "53.30518"
-				"Z" "97.3177"
+				"X" "205.5833"
+				"Y" "69.55441"
+				"Z" "190.0227"
 			}
 			"Shape" "Box"
 			"Ambiance_ID" "122"
@@ -248818,6 +248818,94 @@
 				"Z" "132.3239"
 			}
 			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "172"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1894.55"
+				"Y" "204.1123"
+				"Z" "1920.833"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "staff"
+			"IsVisibleOnMap" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "173"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1897.96"
+				"Y" "206.2342"
+				"Z" "1916.609"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "10.49515"
+				"Y" "5.243747"
+				"Z" "13.70351"
+			}
+			"Shape" "Box"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "174"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1385.721"
+				"Y" "184.4221"
+				"Z" "2867.043"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "110.7614"
+				"Y" "1"
+				"Z" "86.0432"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
 		}
 	}
 ]
