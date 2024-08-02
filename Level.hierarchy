@@ -1,4 +1,4 @@
-"Available_Instance_ID" "175"
+"Available_Instance_ID" "176"
 "Items"
 [
 	{
@@ -245218,7 +245218,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"LocationName" "Duckville industrial"
+			"LocationName" "Helios Power"
 			"IsVisibleOnMap" "true"
 		}
 	}
