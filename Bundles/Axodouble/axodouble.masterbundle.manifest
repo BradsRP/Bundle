@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 282785267
+CRC: 4236522603
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f072abb0b04d938ac35ff7c2ff33b24c
+    Hash: e90ff0f94dce0863a3c85ea20037a55b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -134,6 +134,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/White/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Pink/Animations.prefab
+- Assets/Axodouble/Streetwear/Shirts/Adibass_Tracksuit_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Orange/Character_Mesh_3P_Override_0.prefab
@@ -154,6 +155,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum_Ingot/Use.mp3
+- Assets/Axodouble/Streetwear/Shirts/Adibass_Tracksuit_Top/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Platinum_Axe_Head/Item.prefab
@@ -234,6 +236,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Shirt.png
+- Assets/Axodouble/Streetwear/Shirts/Adibass_Tracksuit_Top/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
@@ -333,7 +336,9 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Blue/Material.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Item.prefab
+- Assets/Axodouble/Streetwear/Shirts/Adibass_Tracksuit_Top/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper_Ingot/Animations.prefab
+- Assets/Axodouble/Streetwear/Shirts/Adibass_Tracksuit_Top/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Animations.prefab
