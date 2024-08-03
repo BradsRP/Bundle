@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 282785267
+CRC: 205531069
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f072abb0b04d938ac35ff7c2ff33b24c
+    Hash: 81d765e5363ee398409a407cf4b7cfcd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -134,6 +134,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/White/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Pink/Animations.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Orange/Character_Mesh_3P_Override_0.prefab
@@ -154,6 +155,8 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum_Ingot/Use.mp3
+- Assets/Zorvoan/Pink_Hawaii_Top/Shirt.mat
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Platinum_Axe_Head/Item.prefab
@@ -234,6 +237,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Shirt.png
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
@@ -333,7 +337,9 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Blue/Material.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Item.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper_Ingot/Animations.prefab
+- Assets/Zorvoan/Adibass_Tracksuit_Top/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Animations.prefab
@@ -463,6 +469,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Gray/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Green/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Blue/Pants.png
+- Assets/Zorvoan/Pink_Hawaii_Top/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Hat.prefab
 - Assets/Axodouble/City/Items/Barricades/Carlift/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Yellow/Animations.prefab
@@ -550,6 +557,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Purple/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Shirt.png
+- Assets/Zorvoan/Pink_Hawaii_Top/Animations.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Orange/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Item.prefab
@@ -637,12 +645,14 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Blue/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Gray/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Gray/Animations.prefab
+- Assets/Zorvoan/Pink_Hawaii_Top/Item.prefab
 - Assets/Axodouble/Clothing/Sources/Materials/Gray.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Gray/Animations.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Object.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt_Ingot/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Blue/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Black/Item.prefab
+- Assets/Zorvoan/Pink_Hawaii_Top/Shirt.png
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Gray/Item.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Decal.png
