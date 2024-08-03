@@ -18,7 +18,7 @@
 	"Reward_Max" "14"
 	"BladeID" "2"
 	"Vulnerable_To_Fists" "false"
-	"Vulnerable_To_All_Melee_Weapons" "true"
+	"Vulnerable_To_All_Melee_Weapons" "false"
 	"Reset" "600"
 	"Forage_Reward_Experience" "1"
 	"No_Debris" ""
