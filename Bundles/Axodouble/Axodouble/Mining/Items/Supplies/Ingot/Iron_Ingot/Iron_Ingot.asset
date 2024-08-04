@@ -39,7 +39,6 @@
 	"Offset" "0"
 	"Explosion" "36"
 	"Can_Be_Damaged" "true"
-	"Vulnerable" ""
 	"Unrepairable" ""
 	"Bypass_Pickup_Ownership" "true"
 	"Salvage_Duration_Multiplier" "1"
