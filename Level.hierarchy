@@ -1,4 +1,4 @@
-"Available_Instance_ID" "180"
+"Available_Instance_ID" "182"
 "Items"
 [
 	{
@@ -246297,7 +246297,7 @@
 			"Position"
 			{
 				"X" "1440.464"
-				"Y" "219.942"
+				"Y" "220.942"
 				"Z" "2150.249"
 			}
 			"Rotation"
@@ -246325,7 +246325,7 @@
 			"Position"
 			{
 				"X" "1443.596"
-				"Y" "220.207"
+				"Y" "221.207"
 				"Z" "2148.398"
 			}
 			"Rotation"
@@ -248895,7 +248895,7 @@
 				"X" "0"
 				"Y" "0.7933534"
 				"Z" "0"
-				"W" "0.6087613"
+				"W" "0.6087614"
 			}
 			"Scale"
 			{
@@ -248949,9 +248949,9 @@
 			"Rotation"
 			{
 				"X" "0"
-				"Y" "-0.3826835"
+				"Y" "-0.3826834"
 				"Z" "0"
-				"W" "0.9238796"
+				"W" "0.9238795"
 			}
 			"Scale"
 			{
@@ -248961,6 +248961,88 @@
 			}
 			"Shape" "Box"
 			"Pair_Id" "mineout"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "180"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1595.651"
+				"Y" "191.1153"
+				"Z" "2271.324"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "568.5834"
+				"Y" "136.5826"
+				"Z" "395.0225"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "181"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "2217.728"
+				"Y" "174.9722"
+				"Z" "3582.357"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1786.737"
+				"Y" "328.077"
+				"Z" "502.9573"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
 		}
 	}
 ]
