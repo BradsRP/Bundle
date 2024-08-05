@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4284346805
+CRC: 3680758976
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ddf59572c03cf401897d58bce4cd8fd
+    Hash: ef05d0deff37c1b01c6bb46582276000
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -311,6 +311,8 @@ Assets:
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum_Ingot/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Top/Character_Mesh_3P_Override_0.prefab
+- Assets/Zorvoan/Green_NEI_Top/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Black/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Item.prefab
@@ -354,6 +356,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Yellow/Character_Mesh_3P_Override_0.prefab
+- Assets/Zorvoan/Green_NEI_Top/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Pink/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Blue/Material.mat
@@ -433,6 +436,7 @@ Assets:
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold_Ingot/Use.mp3
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Hat.prefab
+- Assets/Zorvoan/Green_NEI_Top/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Green/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Black/Material.mat
 - Assets/Axodouble/City/Items/Barricades/Carlift/Close.anim
@@ -480,6 +484,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum_Ingot/Use.mp3
 - Assets/Zorvoan/Pink_Hawaii_Top/Shirt.mat
+- Assets/Zorvoan/Green_NEI_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Animations.prefab
