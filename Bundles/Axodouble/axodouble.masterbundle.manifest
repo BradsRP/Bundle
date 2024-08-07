@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1036535075
+CRC: 2115740208
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 579d1f48d53b5636b3ab68044a4b1ff6
+    Hash: d42186e95ec154d8d65ce97589ff4a2f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -164,6 +164,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Orange/Pants.png
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper_Ingot/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Animations.prefab
+- Assets/Zorvoan/White_NEI_Bottom/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Shirt.png
 - Assets/Zorvoan/Adibass_Tracksuit_Top/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
@@ -305,6 +306,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Item.prefab
 - Assets/Axodouble/Clothing/Sources/Textures/Black.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Blue/Shirt.png
+- Assets/Zorvoan/White_NEI_Bottom/Item.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Object.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Orange/Character_Mesh_3P_Override_0.prefab
@@ -672,6 +674,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Green/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Drugs/Utilities/Rolling_Paper/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Hat.prefab
+- Assets/Zorvoan/White_NEI_Bottom/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Nav.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Purple/Pants.png
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Black/Animations.prefab
@@ -700,6 +703,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Pink/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Orange/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Hat.prefab
+- Assets/Zorvoan/White_NEI_Bottom/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Red/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Pink/Item.prefab
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Object.prefab
@@ -716,6 +720,7 @@ Assets:
 - Assets/Axodouble/Clothing/Sources/Materials/Black.mat
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Black/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.mat
+- Assets/Zorvoan/White_NEI_Bottom/Pants.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Green/Item.prefab
 - Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Material_Override.mat
 - Assets/Zorvoan/Green_NEI_Bottom/Item.prefab
