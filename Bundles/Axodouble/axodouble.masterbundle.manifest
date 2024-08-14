@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1001713114
+CRC: 2285829488
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0bb986efa8526e70b85ddab78b890387
+    Hash: 0444ea3c4f3610fc7960bd4ac3935603
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -115,7 +115,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Red/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Green/Item.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Entropy/Decal.png
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Pink/Animations.prefab
@@ -147,6 +147,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Gray/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Black/Item.mat
 - Assets/Axodouble/Mining/Trees/Platinum_0/Stump.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Mining/Trees/Iron_0/Resource.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Gray/Item.mat
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Gray/Animations.prefab
@@ -159,6 +160,7 @@ Assets:
 - Assets/Zorvoan/Black_NEI_Bottom/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/White/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/White/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Pink/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Blue/Item.prefab
@@ -178,6 +180,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Pink/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Purple/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/crate.fbx
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Item.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Empire/Decal.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Animations.prefab
@@ -243,6 +246,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Blue/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Dried/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Yellow/Shirt.png
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/crate.fbx
 - Assets/Axodouble/Clothing/Sources/Textures/Pink.png
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Source.psd
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Red/Item.prefab
@@ -292,6 +296,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Red/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Black/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/crate.fbx
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Yellow/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Gray/Shirt.png
 - Assets/Axodouble/Clothing/Sources/Textures/White.png
@@ -304,6 +309,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Gray/Material.mat
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Green/Item.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Hat.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/crate.fbx
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/White/Item.mat
 - Assets/Axodouble/Clothing/Sources/Textures/Purple.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Hat.prefab
@@ -313,6 +319,7 @@ Assets:
 - Assets/Axodouble/Clothing/Sources/Materials/Pink.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Item.prefab
 - Assets/Axodouble/Clothing/Sources/Textures/Black.png
+- Assets/Zorvoan/Green_NEI_Top_Old/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Blue/Shirt.png
 - Assets/Zorvoan/White_NEI_Bottom/Item.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Item.prefab
@@ -361,7 +368,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Nav.prefab
 - Assets/Zorvoan/White_NEI_Top/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Orange/Material.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Red/Character_Mesh_3P_Override_0.prefab
@@ -447,6 +454,7 @@ Assets:
 - Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Hat.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Use.mp3
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Item.prefab
@@ -455,6 +463,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Green/Shirt.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Black/Material.mat
 - Assets/Axodouble/City/Items/Barricades/Carlift/Close.anim
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Item.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/White/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Red/Animations.prefab
@@ -469,8 +478,9 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Material.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Purple/Shirt.png
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Item.prefab
 - Assets/Zorvoan/Black_NEI_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Orange/Animations.prefab
@@ -523,21 +533,25 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/White/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Black/Item.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Shirt.mat
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Animations.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Svarta/Decal.png
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Blue/Material.mat
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Yellow/Shirt.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/crate.fbx
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Blue/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Item.prefab
 - Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Nav.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Yellow/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Hat.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Blue/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/White/Animations.prefab
@@ -547,8 +561,10 @@ Assets:
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Purple/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Animations.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Character_Mesh_3P_Override_0.prefab
 - Assets/Zorvoan/Black_NEI_Top/Item.prefab
 - Assets/Zorvoan/Pink_Hawaii_Shorts/Item.mat
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Item.prefab
@@ -566,12 +582,13 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Sources/Textures/Gray.png
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/crate.fbx
 - Assets/Axodouble/City/Items/Barricades/Carlift/Material.mat
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Blue/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Hat.prefab
@@ -581,7 +598,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Orange/Animations.prefab
 - Assets/Axodouble/Mining/Trees/Platinum_0/Resource.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore/Item.prefab
 - Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Slots.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Hat.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Yellow/Item.mat
@@ -607,6 +624,7 @@ Assets:
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/White/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Hat.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Tool_Handle/Item.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Skybox.prefab
@@ -614,6 +632,7 @@ Assets:
 - Assets/Axodouble/Clothing/Sources/Textures/Yellow.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Green/Item.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Gray/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Gray/Shirt.png
@@ -701,7 +720,7 @@ Assets:
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Iron_Pickaxe_Head/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Texture.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Animations.prefab
-- Assets/Zorvoan/Black_NEI_Top/Character_Mesh_3P_Override_0.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Gray/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Green/Item.prefab
@@ -711,6 +730,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Pink/Shirt.png
 - Assets/Zorvoan/Pink_Hawaii_Top/Animations.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Item.prefab
+- Assets/Zorvoan/Black_NEI_Top/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Blue/Hat.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Green/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Red/Item.prefab
@@ -744,6 +764,7 @@ Assets:
 - Assets/Zorvoan/White_NEI_Bottom/Pants.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Green/Item.prefab
 - Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Material_Override.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Item.prefab
 - Assets/Zorvoan/Green_NEI_Bottom/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Black/Pants.png
@@ -792,6 +813,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Animations.prefab
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Purple/Pants.png
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Hat.prefab
+- Assets/Zorvoan/Green_NEI_Top_Old/Item.prefab
 - Assets/Zorvoan/Green_NEI_Bottom/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Use.mp3
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Black/Animations.prefab
@@ -818,7 +840,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Material.mat
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/White/Character_Mesh_3P_Override_0.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Item.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.png
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Pink/Item.prefab
@@ -836,4 +858,5 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Item.prefab
 - Assets/Zorvoan/Black_NEI_Top/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Barricade.prefab
 Dependencies: []
