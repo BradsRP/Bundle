@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2056738292
+CRC: 2727116616
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f762c8837731c6efa806a886e0b52b41
+    Hash: 2bef894dd9109285498060ffe1b9d01b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -174,7 +174,6 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Animations.prefab
 - Assets/Zorvoan/White_NEI_Bottom/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Yellow/Shirt.png
-- Assets/Zorvoan/Ducky_Top/Shirt.png
 - Assets/Zorvoan/Adibass_Tracksuit_Top/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
@@ -391,6 +390,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Blue/Material.mat
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Black/Material.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Black/Character_Mesh_3P_Override_0.prefab
+- Assets/Zorvoan/Ducky_Top/Shirt.png
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Black/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Animations.prefab
