@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 743937411
+CRC: 3598794804
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5f91a34f4b6ec0931c6bc8f4cfa21992
+    Hash: 1800dd9723584b2aa5cda63d846ff38f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -266,6 +266,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Yellow/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Material.mat
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Gray/Pants.png
+- Assets/Zorvoan/Blue_Hawaii_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/White/Material.mat
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Green/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Gray/Shirt.png
@@ -373,6 +374,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/White/Shirt.png
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Pants.png
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/White/Pants.png
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Item.prefab
@@ -448,6 +450,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Yellow/Pants.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Blue/Item.prefab
 - Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Barricade.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Item.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/White/Animations.prefab
 - Assets/Zorvoan/White_NEI_Top/Shirt.png
@@ -467,6 +470,7 @@ Assets:
 - Assets/Axodouble/City/Items/Barricades/Note/Barricade.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Hat.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Use.mp3
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Item.prefab
@@ -526,6 +530,7 @@ Assets:
 - Assets/Zorvoan/Pink_Hawaii_Top/Shirt.mat
 - Assets/Zorvoan/Green_NEI_Top/Shirt.mat
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Item.mat
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Orange/Character_Mesh_3P_Override_0.prefab
@@ -558,6 +563,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Blue/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Animations.prefab
 - Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Nav.prefab
 - Assets/Zorvoan/Purple_Hawaii_Shorts/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Item.prefab
@@ -573,7 +579,9 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/White/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Blue/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Animations.prefab
+- Assets/Zorvoan/Blue_Hawaii_Shorts/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
 - Assets/Zorvoan/Purple_Hawaii_Shorts/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Purple/Item.prefab
@@ -586,6 +594,7 @@ Assets:
 - Assets/Zorvoan/Black_NEI_Top/Item.prefab
 - Assets/Zorvoan/Pink_Hawaii_Shorts/Item.mat
 - Assets/Axodouble/Clothing/Pants/Generic Jeans/Gray/Item.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Carlift/Item.prefab
 - Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Albedo.png
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Red/Item.prefab
@@ -612,6 +621,7 @@ Assets:
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Hat.prefab
 - Assets/Zorvoan/Ducky_Top/Animations.prefab
 - Assets/Axodouble/Clothing/Shirts/Striped T-Shirt/Green/Animations.prefab
+- Assets/Zorvoan/Blue_Hawaii_Top/Shirt.png
 - Assets/Zorvoan/White_NEI_Top/Shirt.mat
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Object.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Orange/Animations.prefab
