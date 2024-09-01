@@ -2,7 +2,7 @@
 GUID 80d05b10e1de4c6b8b5c56149b09dfe0
 Type Vendor
 ID 24282
-Selling 45
+Selling 44
 Selling_0_Type Vehicle
 Selling_0_Spawnpoint plane
 Selling_0_ID 39550
@@ -179,8 +179,4 @@ Selling_43_Type Vehicle
 Selling_43_Spawnpoint plane
 Selling_43_ID 39368
 Selling_43_Cost 200000
-Selling_44_Type Vehicle
-Selling_44_Spawnpoint plane
-Selling_44_ID 189
-Selling_44_Cost 250000
 Disable_Sorting
