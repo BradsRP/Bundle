@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3598794804
+CRC: 4150718639
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1800dd9723584b2aa5cda63d846ff38f
+    Hash: d2ae3c03b088b5e3934ccfd4f8358bef
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -713,6 +713,7 @@ Assets:
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Normal/Purple/Shirt.png
 - Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Animations.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Refined/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Animations.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Barricade.prefab
 - Assets/Axodouble/Clothing/Shirts/Plaid Shirt/Rolled Sleeves/Orange/Item.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Animations.prefab
@@ -896,6 +897,7 @@ Assets:
 - Assets/Axodouble/Clothing/Pants/Generic Shorts/Orange/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Yellow/Hat.prefab
 - Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Animations.prefab
 - Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Item.prefab
 - Assets/Zorvoan/Black_NEI_Top/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Barricade.prefab
