@@ -1,4 +1,4 @@
-"Available_Instance_ID" "185"
+"Available_Instance_ID" "186"
 "Items"
 [
 	{
@@ -341,7 +341,7 @@
 							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
-							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
 						}
 						{
 							"GUID" "8a2b6f2215d6460f8b6fece2ccd9c208"
@@ -360,7 +360,7 @@
 							"GUID" "e52b20e26b7c47c89aa5a350938f8f42"
 						}
 						{
-							"GUID" "6040586a53884057a2e4c316316cc0f2"
+							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
 						}
 						{
 							"GUID" "684f4b28200d4ceb9c5362d78d2c9619"
@@ -477,7 +477,7 @@
 							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
-							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
 						}
 						{
 							"GUID" "8a2b6f2215d6460f8b6fece2ccd9c208"
@@ -249046,6 +249046,36 @@
 				"Z" "72.9165"
 			}
 			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "185"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1308.707"
+				"Y" "19.13333"
+				"Z" "2560.492"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "7"
+				"Z" "15"
+			}
+			"Shape" "Box"
+			"ID" "139"
+			"Emission" "1"
+			"Audio_Range" "1"
 		}
 	}
 ]
