@@ -1,4 +1,4 @@
-"Available_Instance_ID" "186"
+"Available_Instance_ID" "187"
 "Items"
 [
 	{
@@ -341,7 +341,7 @@
 							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
-							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
+							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
 							"GUID" "8a2b6f2215d6460f8b6fece2ccd9c208"
@@ -360,7 +360,7 @@
 							"GUID" "e52b20e26b7c47c89aa5a350938f8f42"
 						}
 						{
-							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
+							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
 							"GUID" "684f4b28200d4ceb9c5362d78d2c9619"
@@ -477,7 +477,7 @@
 							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
-							"GUID" "b4ffe0d7b8ed4ff2b4c302c489108b02"
+							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
 							"GUID" "8a2b6f2215d6460f8b6fece2ccd9c208"
@@ -814,7 +814,7 @@
 							"GUID" "db482f0f23d1414096114aee61195058"
 						}
 						{
-							"GUID" "00000000000000000000000000000000"
+							"GUID" "a14df8dd9bb44f1d967a53f43bde54e6"
 						}
 						{
 							"GUID" "00000000000000000000000000000000"
@@ -245532,7 +245532,7 @@
 			}
 			"Shape" "Box"
 			"Is_Surface_Visible" "true"
-			"Is_Reflection_Visible" "false"
+			"Is_Reflection_Visible" "true"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
 		}
@@ -246510,7 +246510,7 @@
 			}
 			"Shape" "Box"
 			"Is_Surface_Visible" "true"
-			"Is_Reflection_Visible" "false"
+			"Is_Reflection_Visible" "true"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
 		}
@@ -249075,6 +249075,36 @@
 			"Shape" "Box"
 			"ID" "139"
 			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "186"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1788.18"
+				"Y" "37.13074"
+				"Z" "2732.583"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305265"
+				"Z" "0"
+				"W" "0.9914448"
+			}
+			"Scale"
+			{
+				"X" "156.0578"
+				"Y" "39.38428"
+				"Z" "175.0128"
+			}
+			"Shape" "Box"
+			"ID" "139"
+			"Emission" "5"
 			"Audio_Range" "1"
 		}
 	}
