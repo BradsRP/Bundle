@@ -60,7 +60,7 @@
 	"Allow_Manual_Drop" "true"
 	"Should_Delete_At_Zero_Quality" "false"
 	"Destroy_Item_Colliders" "true"
-	"Armor" "0.975"
+	"Armor" "0.95"
 	"Armor_Explosion" "1"
 	"Falling_Damage_Multiplier" "1"
 	"Prevents_Falling_Broken_Bones" "false"
