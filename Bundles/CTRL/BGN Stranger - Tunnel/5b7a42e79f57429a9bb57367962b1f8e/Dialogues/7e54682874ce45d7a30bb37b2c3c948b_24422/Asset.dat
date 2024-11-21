@@ -1,0 +1,13 @@
+﻿// Made in NPC Maker by BowieD
+GUID 7e54682874ce45d7a30bb37b2c3c948b
+Type Dialogue
+ID 24422
+Messages 1
+Message_0_Pages 1
+Responses 1
+Response_0_Dialogue 24421
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 24422
+Response_0_Reward_0_Value True
+
