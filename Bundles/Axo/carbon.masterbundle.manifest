@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1983554374
+CRC: 1975236937
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bafb1b73f902a06fd89073c44c44c3f5
+    Hash: cf708f3ea44793ffc28aea8f4c9add75
   TypeTreeHash:
     serializedVersion: 2
     Hash: 29a42d03caf0e5b4b1a3a16c0e6422e6
@@ -72,10 +72,9 @@ Assets:
 - Assets/Axodouble/Carbon/Hats/TopTopTopTopTophat/TopTopTopTopTophat/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell/Tactical_Softshell_Red/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/G5_T-Shirt/G5_T-Shirt_Olive/Animations.prefab
-- Assets/Axodouble/Carbon/Hats/_Red/_Red/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Long/Plaid_Blouse_Long_Red/Shirt.png
-- Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Black/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell_Padded/Tactical_Softshell_Padded_Sapphire/Shirt.mat
+- Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Black/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Pants/Shorts/Shorts_Pink/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Amaranth/Shirt.png
 - Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Peach/Item.prefab
@@ -120,7 +119,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/G5_T-Shirt/G5_T-Shirt_Black/Shirt.png
 - Assets/Axodouble/Carbon/Glasses/Aviators/Aviators_Olive/Glasses.png
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket/Tactical_Slim_Jacket_Yellow/Character_Mesh_3P_Override_0.prefab
-- Assets/Axodouble/Carbon/Hats/_Blue/_Blue/Animations.prefab
 - Assets/Axodouble/Carbon/Pants/Suit_Pants/Suit_Pants_Orange/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Striped_Blouse_Short/Striped_Blouse_Short_Crimson/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket/Tactical_Slim_Jacket_Gray/Shirt.mat
@@ -960,7 +958,6 @@ Assets:
 - Assets/Axodouble/Carbon/Glasses/Aviators/Aviators_White/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Fedora/Fedora_Ash/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/French_Beret/French_Beret_Peach/Item.prefab
-- Assets/Axodouble/Carbon/Hats/_Black/_Black/Hat.prefab
 - Assets/Axodouble/Carbon/Hats/French_Beret/French_Beret_Lightning/Hats.png
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket_Padded/Gloved_Tactical_Slim_Jacket_Padded_Brown/Shirt.png
 - Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Orange/Hats.png
@@ -1009,7 +1006,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Striped_Blouse_Short/Striped_Blouse_Short_Ash/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Short/Plaid_Blouse_Short_Orange/Item.prefab
 - Assets/Axodouble/Carbon/Vests/Hip_Bag/Hip_Bag_Red/Item.prefab
-- Assets/Axodouble/Carbon/Hats/_Blue/_Blue/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell_Padded/Tactical_Softshell_Padded_Ash/Shirt.png
 - Assets/Axodouble/Carbon/Pants/Suit_Pants/Suit_Pants_Pink/Pants.png
 - Assets/Axodouble/Carbon/Pants/Tactical_Pants/Tactical_Pants_Ash/Character_Mesh_3P_Override_0.prefab
@@ -1390,7 +1386,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Navy/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell_Padded/Tactical_Softshell_Padded_Red/Shirt.mat
 - Assets/Axodouble/Carbon/Shirts/G5_T-Shirt/G5_T-Shirt_Tan/Item.prefab
-- Assets/Axodouble/Carbon/Hats/_Blue/_Blue/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/Striped_Blouse_Short/Striped_Blouse_Short_White/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Hats/Tophat/Tophat_White/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Red/Shirt.png
@@ -1559,7 +1554,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Embroidered_Bomber/Embroidered_Bomber_Amaranth/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/Baseball_Cap/Baseball_Cap_Navy/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/JCS_T-Shirt/JCS_T-Shirt_Sapphire/Shirt.mat
-- Assets/Axodouble/Carbon/Hats/_Black/_Black/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket_Padded/Tactical_Slim_Jacket_Padded_Peach/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Baseball_Cap_Flipped/Baseball_Cap_Flipped_Yellow/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Navy/Item.prefab
@@ -1608,11 +1602,10 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell_Padded/Gloved_Tactical_Softshell_Padded_Tan/Shirt.mat
 - Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Crimson/Shirt.png
 - Assets/Axodouble/Carbon/Pants/Suit_Pants_Striped/Suit_Pants_Striped_Red/Pants.png
-- Assets/Axodouble/Carbon/Hats/_Red/_Red/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Open_Sweater/Open_Sweater_Sapphire/Shirt.mat
+- Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Long/Plaid_Blouse_Long_Orange/Shirt.png
 - Assets/Axodouble/Carbon/Glasses/Aviators/Aviators_Black/Glasses.png
 - Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Orange/Item.prefab
-- Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Long/Plaid_Blouse_Long_Orange/Shirt.png
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket/Tactical_Slim_Jacket_Red/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell/Gloved_Tactical_Softshell_Navy/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/BR_T-Shirt/BR_T-Shirt_Amaranth/Shirt.mat
@@ -1622,11 +1615,11 @@ Assets:
 - Assets/Axodouble/Carbon/Hats/Ballistic_Helmet/Ballistic_Helmet_Tan/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/Baseball_Cap/Baseball_Cap_Purple/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Red/Item.prefab
-- Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Amaranth/Hats.mat
-- Assets/Axodouble/Carbon/Hats/Tophat/Tophat_Blue/Hats.mat
-- Assets/Axodouble/Carbon/Shirts/Suit/Suit_Peach/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Hats/French_Beret/French_Beret_Tan/Hats.mat
+- Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Amaranth/Hats.mat
+- Assets/Axodouble/Carbon/Shirts/Suit/Suit_Peach/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Striped_Blouse_Short/Striped_Blouse_Short_Green/Item.prefab
+- Assets/Axodouble/Carbon/Hats/Tophat/Tophat_Blue/Hats.mat
 - Assets/Axodouble/Carbon/Pants/Jeans/Jeans_Purple/Pants.png
 - Assets/Axodouble/Carbon/Glasses/Aviators/Aviators_Peach/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/JCS_T-Shirt/JCS_T-Shirt_Black/Shirt.mat
@@ -1868,13 +1861,12 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket/Gloved_Tactical_Slim_Jacket_Red/Shirt.mat
 - Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Black/Shirt.png
 - Assets/Axodouble/Carbon/Glasses/Goggles/Goggles_Amaranth/Glasses.mat
-- Assets/Axodouble/Carbon/Hats/_Red/_Red/Hat.prefab
+- Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell/Gloved_Tactical_Softshell_Navy/Shirt.png
 - Assets/Axodouble/Carbon/Hats/Boonie_Hat_Tilted/Boonie_Hat_Tilted_Purple/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/JCS_T-Shirt/JCS_T-Shirt_Amaranth/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket/Gloved_Tactical_Slim_Jacket_Black/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Green/Shirt.png
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Peach/Shirt.mat
-- Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell/Gloved_Tactical_Softshell_Navy/Shirt.png
 - Assets/Axodouble/Carbon/Hats/Ballistic_Helmet/Ballistic_Helmet_Navy/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Fedora/Fedora_Yellow/Hats.mat
 - Assets/Axodouble/Carbon/Hats/Army_Beret/Army_Beret_Orange/Hats.mat
@@ -2499,14 +2491,13 @@ Assets:
 - Assets/Axodouble/Carbon/Pants/Tactical_Pants/Tactical_Pants_Black/Pants.png
 - Assets/Axodouble/Carbon/Shirts/Open_Sweater/Open_Sweater_Brown/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket_Padded/Gloved_Tactical_Slim_Jacket_Padded_Brown/Character_Mesh_3P_Override_0.prefab
-- Assets/Axodouble/Carbon/Hats/_Green/_Green/Item.prefab
+- Assets/Axodouble/Carbon/Vests/Hip_Bag/Hip_Bag_Lightning/Vests.mat
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell_Padded/Gloved_Tactical_Softshell_Padded_Lightning/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Pants/Suit_Pants_Striped/Suit_Pants_Striped_White/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/Baseball_Cap/Baseball_Cap_Red/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/Army_Beret/Army_Beret_Blue/Hats.mat
 - Assets/Axodouble/Carbon/Hats/Fedora/Fedora_Gray/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell/Gloved_Tactical_Softshell_Peach/Shirt.mat
-- Assets/Axodouble/Carbon/Vests/Hip_Bag/Hip_Bag_Lightning/Vests.mat
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket/Gloved_Tactical_Slim_Jacket_Green/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Open_Sweater/Open_Sweater_White/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Hats/Fedora/Fedora_Lightning/Animations.prefab
@@ -2903,10 +2894,9 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/G5_T-Shirt/G5_T-Shirt_Orange/Shirt.mat
 - Assets/Axodouble/Carbon/Pants/Tactical_Pants/Tactical_Pants_Gray/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Open_Sweater/Open_Sweater_Crimson/Shirt.mat
-- Assets/Axodouble/Carbon/Hats/_Green/_Green/Hat.prefab
+- Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Long/Plaid_Blouse_Long_White/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/BR_T-Shirt/BR_T-Shirt_Sapphire/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Brown/Animations.prefab
-- Assets/Axodouble/Carbon/Shirts/Plaid_Blouse_Long/Plaid_Blouse_Long_White/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Hats/French_Beret/French_Beret_White/Hats.png
 - Assets/Axodouble/Carbon/Shirts/Swish_Polo/Swish_Polo_Yellow/Shirt.mat
 - Assets/Axodouble/Carbon/Hats/Boonie_Hat_Tilted/Boonie_Hat_Tilted_Brown/Item.prefab
@@ -3101,7 +3091,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Striped_Blouse_Long/Striped_Blouse_Long_Tan/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell_Padded/Tactical_Softshell_Padded_Ash/Shirt.mat
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket_Padded/Gloved_Tactical_Slim_Jacket_Padded_Ash/Shirt.mat
-- Assets/Axodouble/Carbon/Hats/_Green/_Green/Animations.prefab
 - Assets/Axodouble/Carbon/Pants/Jeans/Jeans_Tan/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/BR_T-Shirt/BR_T-Shirt_Tan/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Hats/Army_Beret/Army_Beret_Pink/Hats.mat
@@ -3649,7 +3638,6 @@ Assets:
 - Assets/Axodouble/Carbon/Pants/Suit_Pants_Striped/Suit_Pants_Striped_Olive/Pants.mat
 - Assets/Axodouble/Carbon/Shirts/Suit/Suit_Peach/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket_Padded/Tactical_Slim_Jacket_Padded_Yellow/Shirt.mat
-- Assets/Axodouble/Carbon/Hats/_White/_White/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/BR_T-Shirt/BR_T-Shirt_Tan/Shirt.mat
 - Assets/Axodouble/Carbon/Hats/Boonie_Hat_Tilted/Boonie_Hat_Tilted_Peach/Hats.png
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Softshell_Padded/Gloved_Tactical_Softshell_Padded_White/Animations.prefab
@@ -3904,7 +3892,6 @@ Assets:
 - Assets/Axodouble/Carbon/Vests/Hip_Bag/Hip_Bag_Olive/Vest.prefab
 - Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Olive/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/Swish_Polo/Swish_Polo_Yellow/Shirt.png
-- Assets/Axodouble/Carbon/Hats/_White/_White/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket_Padded/Tactical_Slim_Jacket_Padded_Orange/Shirt.png
 - Assets/Axodouble/Carbon/Hats/Tophat/Tophat_Purple/Animations.prefab
 - Assets/Axodouble/Carbon/Shirts/Gloved_Tactical_Slim_Jacket_Padded/Gloved_Tactical_Slim_Jacket_Padded_Yellow/Item.prefab
@@ -3935,7 +3922,6 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/G5_T-Shirt/G5_T-Shirt_Tan/Shirt.png
 - Assets/Axodouble/Carbon/Pants/Suit_Pants_Striped/Suit_Pants_Striped_Gray/Character_Mesh_3P_Override_0.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket_Padded/Tactical_Slim_Jacket_Padded_Brown/Character_Mesh_3P_Override_0.prefab
-- Assets/Axodouble/Carbon/Hats/_White/_White/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Boonie_Hat/Boonie_Hat_Red/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Cowboy_Hat/Cowboy_Hat_Brown/Hat.prefab
 - Assets/Axodouble/Carbon/Shirts/Tactical_Slim_Jacket_Padded/Tactical_Slim_Jacket_Padded_Black/Shirt.mat
@@ -4026,9 +4012,8 @@ Assets:
 - Assets/Axodouble/Carbon/Shirts/Suit_Striped/Suit_Striped_Orange/Animations.prefab
 - Assets/Axodouble/Carbon/Hats/Fedora/Fedora_Lightning/Hats.mat
 - Assets/Axodouble/Carbon/Shirts/Tactical_Softshell_Padded/Tactical_Softshell_Padded_Crimson/Animations.prefab
-- Assets/Axodouble/Carbon/Hats/_Black/_Black/Item.prefab
-- Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Gray/Item.prefab
 - Assets/Axodouble/Carbon/Pants/Tactical_Pants/Tactical_Pants_Tan/Pants.png
+- Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Gray/Item.prefab
 - Assets/Axodouble/Carbon/Shirts/JCS_T-Shirt/JCS_T-Shirt_Red/Item.prefab
 - Assets/Axodouble/Carbon/Hats/Flat_Cap/Flat_Cap_Ash/Animations.prefab
 - Assets/Axodouble/Carbon/Glasses/Goggles/Goggles_Navy/Glasses.png
