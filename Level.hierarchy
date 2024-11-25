@@ -1,4 +1,4 @@
-"Available_Instance_ID" "187"
+"Available_Instance_ID" "194"
 "Items"
 [
 	{
@@ -245515,7 +245515,7 @@
 			{
 				"X" "-2574.715"
 				"Y" "9.227521"
-				"Z" "4150.341"
+				"Z" "4181.318"
 			}
 			"Rotation"
 			{
@@ -245528,12 +245528,12 @@
 			{
 				"X" "3241.99"
 				"Y" "19.58361"
-				"Z" "2143.926"
+				"Z" "2081.972"
 			}
 			"Shape" "Box"
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "true"
-			"Is_Sea_Level" "false"
+			"Is_Sea_Level" "true"
 			"Water_Type" "SALTY"
 		}
 	}
@@ -246491,7 +246491,7 @@
 		{
 			"Position"
 			{
-				"X" "-3166.071"
+				"X" "-3162.691"
 				"Y" "9.227521"
 				"Z" "1945.141"
 			}
@@ -246506,12 +246506,12 @@
 			{
 				"X" "3241.99"
 				"Y" "19.58361"
-				"Z" "2143.926"
+				"Z" "2150.686"
 			}
 			"Shape" "Box"
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "true"
-			"Is_Sea_Level" "false"
+			"Is_Sea_Level" "true"
 			"Water_Type" "SALTY"
 		}
 	}
@@ -249106,6 +249106,176 @@
 			"ID" "139"
 			"Emission" "5"
 			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "187"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-155.6631"
+				"Y" "91.95042"
+				"Z" "3901.593"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "40.00397"
+				"Y" "14.50693"
+				"Z" "40.98727"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterEntranceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "188"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "858.7551"
+				"Y" "178.7483"
+				"Z" "-326.3029"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "-0.7071068"
+			}
+			"Scale"
+			{
+				"X" "2.422646"
+				"Y" "2.648793"
+				"Z" "0.8083336"
+			}
+			"Shape" "Box"
+			"Pair_Id" "smuggup"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterExitVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "189"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "860.7329"
+				"Y" "178.3078"
+				"Z" "-326.1254"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Id" "smuggdown"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterExitVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "191"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "861.3286"
+				"Y" "219.0098"
+				"Z" "-326.3877"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Id" "smuggup"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.TeleporterEntranceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "192"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "851.3148"
+				"Y" "219.2472"
+				"Z" "-326.2788"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "-0.7071068"
+			}
+			"Scale"
+			{
+				"X" "2.479581"
+				"Y" "2.593981"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Pair_Id" "smuggdown"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "193"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1527.206"
+				"Y" "-1.216034"
+				"Z" "2570.891"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1154.866"
+				"Y" "1"
+				"Z" "1149.67"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "false"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "true"
+			"Water_Type" "SALTY"
 		}
 	}
 ]
