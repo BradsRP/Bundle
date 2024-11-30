@@ -4,7 +4,7 @@ Type Quest
 ID 24426
 Conditions 1
 Condition_0_Type Item
-Condition_0_ID 2
+Condition_0_ID 24905
 Condition_0_Amount 1
 Condition_0_Reset 
 
