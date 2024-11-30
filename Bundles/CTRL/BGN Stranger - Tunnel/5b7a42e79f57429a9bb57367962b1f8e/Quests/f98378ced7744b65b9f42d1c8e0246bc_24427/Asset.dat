@@ -4,7 +4,7 @@ Type Quest
 ID 24427
 Conditions 1
 Condition_0_Type Item
-Condition_0_ID 2
-Condition_0_Amount 1
+Condition_0_ID 24907
+Condition_0_Amount 20
 Condition_0_Reset 
 
