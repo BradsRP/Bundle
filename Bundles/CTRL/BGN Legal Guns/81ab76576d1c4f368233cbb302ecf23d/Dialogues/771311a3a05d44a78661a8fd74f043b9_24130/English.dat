@@ -9,4 +9,5 @@ Response_4 <color=common>Sidearms</color>
 Response_5 <color=uncommon>Ammo</color>
 Response_6 <color=rare>Attachments</color>
 Response_7 <color=rare>Weapon Mounts</color>
-Response_8 Exit
+Response_8 <color=#fc052a>Buy-back</color>
+Response_9 Exit
