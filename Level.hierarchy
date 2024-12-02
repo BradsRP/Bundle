@@ -1,4 +1,4 @@
-"Available_Instance_ID" "194"
+"Available_Instance_ID" "203"
 "Items"
 [
 	{
@@ -941,10 +941,10 @@
 							"GUID" "6cef9d3ac83942ae9641a8bdab46f8a5"
 						}
 						{
-							"GUID" "00000000000000000000000000000000"
+							"GUID" "17b88227113041869ba4661b227a0590"
 						}
 						{
-							"GUID" "00000000000000000000000000000000"
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
 						}
 						{
 							"GUID" "00000000000000000000000000000000"
@@ -245679,9 +245679,9 @@
 		{
 			"Position"
 			{
-				"X" "-1569.538"
-				"Y" "22.95137"
-				"Z" "3478.007"
+				"X" "-1496.454"
+				"Y" "22.95136"
+				"Z" "3406.571"
 			}
 			"Rotation"
 			{
@@ -245768,9 +245768,9 @@
 		{
 			"Position"
 			{
-				"X" "-1576.497"
+				"X" "-1505.953"
 				"Y" "22.75134"
-				"Z" "3477.806"
+				"Z" "3411.162"
 			}
 			"Rotation"
 			{
@@ -249276,6 +249276,276 @@
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "true"
 			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "194"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "97.54823"
+				"Y" "227.6364"
+				"Z" "890.0711"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "3.341503"
+				"Z" "2.58142"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "195"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "78.22971"
+				"Y" "227.6364"
+				"Z" "884.8947"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "3.341503"
+				"Z" "2.58142"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "196"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "58.91121"
+				"Y" "227.6364"
+				"Z" "879.7183"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "3.341503"
+				"Z" "2.58142"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "197"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "98.67005"
+				"Y" "200.1038"
+				"Z" "885.8846"
+			}
+			"Rotation"
+			{
+				"X" "0.09009836"
+				"Y" "-0.1299861"
+				"Z" "0.01186169"
+				"W" "0.9873425"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "57.09293"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "5"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "198"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "79.35153"
+				"Y" "200.1038"
+				"Z" "880.7082"
+			}
+			"Rotation"
+			{
+				"X" "0.09009836"
+				"Y" "-0.1299861"
+				"Z" "0.01186169"
+				"W" "0.9873425"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "57.09293"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "5"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "199"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "60.03302"
+				"Y" "200.1038"
+				"Z" "875.5318"
+			}
+			"Rotation"
+			{
+				"X" "0.09009836"
+				"Y" "-0.1299861"
+				"Z" "0.01186169"
+				"W" "0.9873425"
+			}
+			"Scale"
+			{
+				"X" "12"
+				"Y" "57.09293"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "5"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "200"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "100.2129"
+				"Y" "170.299"
+				"Z" "880.1266"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12.00001"
+				"Y" "5.968628"
+				"Z" "9.144114"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "5"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "201"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "80.89434"
+				"Y" "170.299"
+				"Z" "874.9502"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12.00001"
+				"Y" "5.968628"
+				"Z" "9.144114"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "202"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "61.57585"
+				"Y" "170.299"
+				"Z" "869.7737"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "12.00001"
+				"Y" "5.968628"
+				"Z" "9.144114"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "1"
+			"Audio_Range" "1"
 		}
 	}
 ]

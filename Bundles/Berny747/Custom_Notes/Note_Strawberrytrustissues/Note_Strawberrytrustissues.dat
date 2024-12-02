@@ -1,10 +1,10 @@
-GUID 8ba6fe66012e4b22b3db27ae023227ed
+GUID 6466ce77515541739bb68954e4df4c51
 Type Medium
-ID 29008
+ID 29007
 
 Interactability Note
 Interactability_Hint Use
-Interactability_Text_Lines 1
+Interactability_Text_Lines 3
 
 Asset_Bundle_Version 2
 Master_Bundle_Override core.masterbundle
