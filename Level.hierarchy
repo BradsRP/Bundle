@@ -1,4 +1,4 @@
-"Available_Instance_ID" "203"
+"Available_Instance_ID" "206"
 "Items"
 [
 	{
@@ -247360,7 +247360,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "541"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247387,7 +247387,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "541"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247397,9 +247397,9 @@
 		{
 			"Position"
 			{
-				"X" "-612.9879"
+				"X" "-632.2284"
 				"Y" "192.1992"
-				"Z" "-81.97009"
+				"Z" "-72.02032"
 			}
 			"Rotation"
 			{
@@ -247414,7 +247414,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "541"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247441,7 +247441,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "540"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247468,7 +247468,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "540"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247478,9 +247478,9 @@
 		{
 			"Position"
 			{
-				"X" "584.3593"
+				"X" "576.8016"
 				"Y" "200.0747"
-				"Z" "198.8422"
+				"Z" "205.7902"
 			}
 			"Rotation"
 			{
@@ -247495,7 +247495,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "540"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -247522,7 +247522,7 @@
 				"Y" "1"
 				"Z" "1"
 			}
-			"SpawnTable_ID" "541"
+			"SpawnTable_ID" "25014"
 		}
 	}
 	{
@@ -249546,6 +249546,91 @@
 			"ID" "142"
 			"Emission" "1"
 			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "203"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "81.26028"
+				"Y" "202.0508"
+				"Z" "863.9213"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7933533"
+				"Z" "0"
+				"W" "0.6087614"
+			}
+			"Scale"
+			{
+				"X" "49.52782"
+				"Y" "62.27382"
+				"Z" "57.49363"
+			}
+			"Shape" "Box"
+			"ID" "146"
+			"Emission" "1"
+			"Audio_Range" "250"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "204"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-932.37"
+				"Y" "248.0286"
+				"Z" "815.2114"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9238796"
+				"Z" "0"
+				"W" "0.3826834"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "DMZ_origin"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.LocationDevkitNode, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "205"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-931.4944"
+				"Y" "247.8476"
+				"Z" "817.5774"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"LocationName" "???"
+			"IsVisibleOnMap" "true"
 		}
 	}
 ]
