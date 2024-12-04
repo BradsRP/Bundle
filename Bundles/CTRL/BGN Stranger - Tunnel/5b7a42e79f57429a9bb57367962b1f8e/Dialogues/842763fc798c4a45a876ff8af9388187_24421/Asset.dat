@@ -4,8 +4,10 @@ Type Dialogue
 ID 24421
 Messages 4
 Message_0_Pages 1
-Message_0_Responses 1
+Message_0_Responses 3
 Message_0_Response_0 0
+Message_0_Response_1 25
+Message_0_Response_2 26
 Message_0_Conditions 1
 Message_0_Condition_0_Type Flag_Short
 Message_0_Condition_0_ID 24421
@@ -14,8 +16,10 @@ Message_0_Condition_0_Allow_Unset
 Message_0_Condition_0_Logic Equal
 
 Message_1_Pages 1
-Message_1_Responses 1
+Message_1_Responses 3
 Message_1_Response_0 1
+Message_1_Response_1 25
+Message_1_Response_2 26
 Message_1_Conditions 1
 Message_1_Condition_0_Type Flag_Short
 Message_1_Condition_0_ID 24421
@@ -23,8 +27,10 @@ Message_1_Condition_0_Value 1
 Message_1_Condition_0_Logic Equal
 
 Message_2_Pages 1
-Message_2_Responses 1
+Message_2_Responses 3
 Message_2_Response_0 2
+Message_2_Response_1 25
+Message_2_Response_2 26
 Message_2_Conditions 1
 Message_2_Condition_0_Type Flag_Short
 Message_2_Condition_0_ID 24421
@@ -32,7 +38,7 @@ Message_2_Condition_0_Value 2
 Message_2_Condition_0_Logic Equal
 
 Message_3_Pages 1
-Message_3_Responses 22
+Message_3_Responses 24
 Message_3_Response_0 3
 Message_3_Response_1 4
 Message_3_Response_2 5
@@ -55,13 +61,15 @@ Message_3_Response_18 21
 Message_3_Response_19 22
 Message_3_Response_20 23
 Message_3_Response_21 24
+Message_3_Response_22 25
+Message_3_Response_23 26
 Message_3_Conditions 1
 Message_3_Condition_0_Type Flag_Short
 Message_3_Condition_0_ID 24421
 Message_3_Condition_0_Value 3
 Message_3_Condition_0_Logic Equal
 
-Responses 25
+Responses 27
 Response_0_Messages 1
 Response_0_Message_0 0
 Response_0_Dialogue 24421
@@ -454,3 +462,4 @@ Response_24_Rewards 1
 Response_24_Reward_0_Type Hint
 Response_24_Reward_0_Duration 6
 
+Response_25_Vendor 24423

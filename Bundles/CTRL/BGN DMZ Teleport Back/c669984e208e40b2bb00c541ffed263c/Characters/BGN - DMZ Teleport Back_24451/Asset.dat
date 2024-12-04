@@ -1,6 +1,6 @@
 ﻿// Made in NPC Maker by BowieD
-GUID 5770bf6a8e5444739227d73a0a4b9425
-ID 24421
+GUID ffa2d5cc8ac14d5abea531d682077f61
+ID 24451
 Type NPC
 Shirt 22130
 Pants 22470
@@ -14,4 +14,4 @@ Hair 0
 Color_Skin #BEA582
 Color_Hair #000000
 Pose Stand
-Dialogue 24421
+Dialogue 24451
