@@ -4,10 +4,9 @@ Type Dialogue
 ID 24421
 Messages 4
 Message_0_Pages 1
-Message_0_Responses 3
+Message_0_Responses 2
 Message_0_Response_0 0
-Message_0_Response_1 25
-Message_0_Response_2 26
+Message_0_Response_1 26
 Message_0_Conditions 1
 Message_0_Condition_0_Type Flag_Short
 Message_0_Condition_0_ID 24421
@@ -16,10 +15,9 @@ Message_0_Condition_0_Allow_Unset
 Message_0_Condition_0_Logic Equal
 
 Message_1_Pages 1
-Message_1_Responses 3
+Message_1_Responses 2
 Message_1_Response_0 1
-Message_1_Response_1 25
-Message_1_Response_2 26
+Message_1_Response_1 26
 Message_1_Conditions 1
 Message_1_Condition_0_Type Flag_Short
 Message_1_Condition_0_ID 24421
@@ -27,10 +25,9 @@ Message_1_Condition_0_Value 1
 Message_1_Condition_0_Logic Equal
 
 Message_2_Pages 1
-Message_2_Responses 3
+Message_2_Responses 2
 Message_2_Response_0 2
-Message_2_Response_1 25
-Message_2_Response_2 26
+Message_2_Response_1 26
 Message_2_Conditions 1
 Message_2_Condition_0_Type Flag_Short
 Message_2_Condition_0_ID 24421
@@ -358,9 +355,19 @@ Response_18_Condition_0_Logic Equal
 Response_18_Condition_0_Ignore_NPC False
 Response_18_Condition_0_Reset 
 
-Response_18_Rewards 1
+Response_18_Rewards 3
 Response_18_Reward_0_Type Hint
-Response_18_Reward_0_Duration 6
+Response_18_Reward_0_Duration 8
+
+Response_18_Reward_1_Type Item
+Response_18_Reward_1_ID 1271
+Response_18_Reward_1_Amount 1
+Response_18_Reward_1_Auto_Equip False
+
+Response_18_Reward_2_Type Item
+Response_18_Reward_2_ID 1270
+Response_18_Reward_2_Amount 1
+Response_18_Reward_2_Auto_Equip False
 
 Response_19_Messages 1
 Response_19_Message_0 3
@@ -462,4 +469,6 @@ Response_24_Rewards 1
 Response_24_Reward_0_Type Hint
 Response_24_Reward_0_Duration 6
 
-Response_25_Vendor 24423
+Response_25_Messages 1
+Response_25_Message_0 3
+Response_25_Vendor 24432
