@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 288945123
+CRC: 2375764912
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 399530d91eb02271421a179608c0e84b
+    Hash: b240c07df847333fcdc9fe60c0a77e67
   TypeTreeHash:
     serializedVersion: 2
     Hash: 057964048581e38a517ef7083ba0cd1e
@@ -101,464 +101,203 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Orange/Hat.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Moth.png
 - Assets/Axodouble/Police/Emeight/Item.prefab
 - Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Mesh_3P_Override_0.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Purple/Hat.prefab
-- Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Item.prefab
-- Assets/Axodouble/Police/Emeight/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Gray/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Yellow/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Green/Item.prefab
-- Assets/Axodouble/City/Objects/Decals/Graffiti/Entropy/Decal.png
-- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Gray/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Hat.prefab
-- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Green/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Pink/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Animations.prefab
-- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Barricade.prefab
-- Assets/Axodouble/Mining/Items/Melee/Axe/Cobalt_Axe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Green/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Red/Item.prefab
-- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Animations.prefab
-- Assets/Axodouble/City/Objects/Decals/Graffiti/Who Takes Your Vote/Decal.png
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Green/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Use.mp3
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Platinum_Axe_Head/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Animations.prefab
-- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.png
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Purple/Item.prefab
-- Assets/Axodouble/City/Items/Barricades/Note/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Orange/Hat.prefab
-- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Gold_Pickaxe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Hat.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Yellow.mat
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Animations.prefab
-- Assets/Axodouble/City/Items/Barricades/Carlift/Open.anim
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Pink/Item.prefab
-- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/White/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Blue/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Hat.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Barricade.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/White/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Purple/Animations.prefab
-- Assets/Axodouble/Mining/Trees/Platinum_0/Stump.prefab
-- Assets/Axodouble/Mining/Trees/Iron_0/Resource.prefab
-- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Animations.prefab
-- Assets/Axodouble/City/Objects/Decals/Graffiti/Svarta/Decal.png
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/White/Hat.prefab
-- Assets/Axodouble/Police/Emeight/Throwable.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/crate.fbx
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Animations.prefab
-- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Object.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/White/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/White/Hat.prefab
-- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Gray/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Item.prefab
-- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Barricade.prefab
-- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Lid/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Pink/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Blue/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Animations.prefab
-- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Platinum_Pickaxe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Blue/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Yellow/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Item.prefab
-- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
-- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
-- Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Purple/Item.prefab
-- Assets/Axodouble/City/Items/Barricades/Note/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/crate.fbx
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Animations.prefab
-- Assets/Axodouble/City/Objects/Decals/Graffiti/Empire/Decal.png
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Animations.prefab
-- Assets/Axodouble/Mining/Trees/Cobalt_0/Stump.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Orange/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Item.prefab
-- Assets/Axodouble/City/Items/Barricades/Carlift/Item.prefab
-- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Albedo.png
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Orange/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Orange/Item.prefab
-- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Purple/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Purple/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Purple/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Blue/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Gray/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Green/Hat.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/White/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Gray.png
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/crate.fbx
-- Assets/Axodouble/City/Items/Barricades/Carlift/Material.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/White/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Pink/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Green/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Purple/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Blue/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Purple/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Yellow/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Hat.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Yellow/Item.prefab
-- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Object.prefab
-- Assets/Axodouble/Mining/Trees/Platinum_0/Resource.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore/Item.prefab
-- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Animations.prefab
-- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Orange/Item.prefab
-- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Slots.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Blue.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Orange/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Purple/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/White/Hat.prefab
-- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Purple/Hat.prefab
-- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Use.mp3
-- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Gold_Axe_Head/Item.prefab
-- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Animations.prefab
-- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Nav.prefab
-- Assets/Axodouble/Police/Emeight/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Green/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Gray/Item.prefab
-- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Barricade.prefab
-- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Yellow/Animations.prefab
-- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Dried/Item.prefab
-- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.png
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/crate.fbx
-- Assets/Axodouble/Clothing/Sources/Textures/Pink.png
-- Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Source.psd
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Red/Animations.prefab
-- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Yellow/Hat.prefab
-- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/White/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Purple/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Hat.prefab
-- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Skybox.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Tool_Handle/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Animations.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Copper_Axe_Head/Item.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Yellow.png
-- Assets/Axodouble/City/Items/Barricades/Carlift/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Gray/Hat.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Orange/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Gray/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Yellow/Item.prefab
-- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Blue/Hat.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Red/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Pink/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Red/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Red.png
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Orange.png
-- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Green/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Blue/Item.prefab
-- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Nav.prefab
-- Assets/Axodouble/Mining/Trees/Copper_0/Resource.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/White/Item.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Green.png
-- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Moth.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Purple/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Item.prefab
 - Assets/Axodouble/Mining/Trees/Coal_0/Stump.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Item.prefab
+- Assets/Axodouble/Police/Emeight/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/crate.fbx
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/White/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/White.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Pink/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Gray/Hat.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Entropy/Decal.png
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore/Item.prefab
 - Assets/Axodouble/Mining/Trees/Cobalt_0/Resource.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/crate.fbx
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Purple.png
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Blue/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Gray/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Hat.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Barricade.prefab
 - Assets/Axodouble/City/Items/Barricades/Carlift/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Yellow/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/White/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Pink.mat
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Yellow/Animations.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Cobalt_Axe/Animations.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Item.prefab
 - Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Refined/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Blue/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Black.png
-- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Item.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Barricade.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Who Takes Your Vote/Decal.png
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Green.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Pink/Hat.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Cobalt_Pickaxe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Yellow/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Platinum_Axe_Head/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Iron_Axe_Head/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Gold_Pickaxe/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Barricade.prefab
 - Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Lid/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/White/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.png
 - Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Font/Pixelated.ttf
-- Assets/Axodouble/Clothing/Sources/Textures/Olive.png
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Note/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Gold_Pickaxe/Animations.prefab
 - Assets/Axodouble/Mining/Trees/Iron_0/Stump.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Animations.prefab
 - Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Barricade.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Open.anim
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Pink/Animations.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Blue/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Gold_Pickaxe_Head/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Materials/Streetlight.mat
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/Mining/Trees/Platinum_0/Stump.prefab
 - Assets/Axodouble/Drugs/Utilities/Rolling_Paper/Item.prefab
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Nav.prefab
 - Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Doorbell_0.mat
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Blue/Hat.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Animations.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Svarta/Decal.png
+- Assets/Axodouble/Mining/Trees/Iron_0/Resource.prefab
+- Assets/Axodouble/Police/Emeight/Throwable.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight/Nav.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Pink/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Gray/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Iron_Pickaxe_Head/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Platinum_Axe/Item.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Texture.png
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Pink/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Yellow/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Gray/Item.prefab
-- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Animations.prefab
-- Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Item.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Nav.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Hat.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Orange/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Blue/Hat.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Lid/Nav.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Red/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Red/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Textures/Blue.png
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Platinum_Pickaxe/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Pink/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Pink/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Barricade.prefab
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Nav.prefab
 - Assets/Axodouble/Mining/Trees/Gold_0/Stump.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Gray/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Pink/Item.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Grinded/Item.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Animations.prefab
+- Assets/Axodouble/City/Objects/Streetlights/Materials/Moth.mat
+- Assets/Axodouble/City/Items/Barricades/Note/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/crate.fbx
 - Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop_Interactible/Object.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/1v4/Decal.png
 - Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Moths/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Hat.prefab
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Empire/Decal.png
 - Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Animations.prefab
 - Assets/Axodouble/Mining/Trees/Copper_0/Stump.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Pink/Hat.prefab
+- Assets/Axodouble/Mining/Trees/Cobalt_0/Stump.prefab
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Yellow/Animations.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.mat
-- Assets/Axodouble/Clothing/Sources/Materials/Black.mat
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Iron_Pickaxe/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Purple.mat
+- Assets/Axodouble/City/Items/Barricades/Carlift/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Albedo.png
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Yellow/Hat.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Blue/Hat.prefab
+- Assets/Axodouble/Drugs/Tools/Drying_Line/Drying_Line_Tobacco/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Animations.prefab
 - Assets/Axodouble/City/Items/Shirts/Bus_Timetable/Character_Material_Override.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Purple/Hat.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Gray.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Purple/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Purple/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Gold/Gold_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Items/Barricades/Carlift/Material.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Red.mat
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Green/Hat.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Pink/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Font/Pixelated.asset
 - Assets/Axodouble/City/Objects/Streetlights/Materials/Light.mat
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Gray/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Item.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Blue/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Gray/Item.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Object.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Cobalt_Axe_Head/Item.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Decal.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Red/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Yellow/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Gray/Animations.prefab
-- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Object.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Gray/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Green/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Copper_Pickaxe_Head/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Blue/Animations.prefab
+- Assets/Axodouble/Mining/Trees/Platinum_0/Resource.prefab
+- Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Object.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Cobalt_Axe/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Red/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Red/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Pink/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Purple/Item.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Slots.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Object.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Gold_Axe_Head/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Animations.prefab
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Ducked/Decal.png
+- Assets/Axodouble/City/Objects/Streetlights/Dynamic_Streetlight_Flickering/Nav.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Timetable/Nav.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Cobalt_Pickaxe_Head/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Gray/Hat.prefab
 - Assets/Axodouble/Police/Emeight/Smoke.mp3
+- Assets/Axodouble/Police/Emeight/Use.mp3
 - Assets/Axodouble/Mining/Trees/Gold_0/Resource.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Gray/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Gray/Animations.prefab
 - Assets/Axodouble/Mining/Trees/Coal_0/Resource.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Orange/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Green/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Green/Animations.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Platinum_Pickaxe/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Heads/Pickaxe/Platinum_Pickaxe_Head/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Black/Item.prefab
+- Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Melee/Axe/Iron_Axe/Animations.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves_Dried/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Doorbell.png
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot_Stack/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/Orange.mat
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Orange/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Pink/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Gray/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/French/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Purple/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Purple/Hat.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Copper/Copper_Ore_Stack/crate.fbx
+- Assets/Axodouble/City/Objects/Decals/Graffiti/Saints/Source.psd
 - Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/White/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/White/Hat.prefab
+- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Item.prefab
+- Assets/Axodouble/Mining/Items/Melee/Pickaxe/Copper_Pickaxe/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Pickaxe/Iron_Pickaxe/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Carlift/Texture.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Black/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Green/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Green/Animations.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Copper/Copper_Ingot_Stack/Use.mp3
+- Assets/Axodouble/Mining/Items/Supplies/Tool_Handle/Item.prefab
+- Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Skybox.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/Purple/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Fedora/Yellow/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Animations.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Copper_Axe/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Heads/Axe/Copper_Axe_Head/Item.prefab
 - Assets/Axodouble/Mining/Items/Melee/Axe/Gold_Axe/Animations.prefab
+- Assets/Axodouble/City/Items/Barricades/Carlift/Animations.prefab
 - Assets/Axodouble/City/Items/Barricades/Doorbell_Charge/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Note/Barricade.prefab
 - Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Material.mat
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Black/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Black/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Tophat/Orange/Item.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ore/Iron/Iron_Ore_Stack/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Black/Item.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/Blue/Hat.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Platinum/Platinum_Ore/Item.prefab
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Item.prefab
 - Assets/Axodouble/City/Objects/Banks/JCS_Bank_2/Bank.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Pink/Item.prefab
 - Assets/Axodouble/City/Items/Barricades/Carlift/Close.anim
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Platinum/Platinum_Ingot_Stack/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap/Orange/Animations.prefab
+- Assets/Axodouble/City/Objects/Debris/Vehicles/Vehicle_Debris_Hole/Nav.prefab
 - Assets/Axodouble/Drugs/Tools/Cutting_Board/Barricade.prefab
+- Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot_Stack/Barricade.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Cobalt/Cobalt_Ore_Stack/Barricade.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Tilted/White/Item.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Cobalt/Cobalt_Ingot/Use.mp3
 - Assets/Axodouble/City/Objects/Decals/Graffiti/Read the Rules/Decal.png
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/Red/Item.prefab
-- Assets/Axodouble/Clothing/Sources/Materials/White.mat
 - Assets/Axodouble/City/Objects/Infrastructure/Interactibles/Trash_Can/Trash_Can_Trash/Object.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Gold/Gold_Ingot_Stack/Use.mp3
 - Assets/Axodouble/Mining/Items/Supplies/Ingot/Iron/Iron_Ingot/Use.mp3
-- Assets/Axodouble/Clothing/Hats/Caps/Baseball Cap Flipped/Yellow/Hat.prefab
-- Assets/Axodouble/Clothing/Hats/Formal/Beret/Army/White/Item.prefab
+- Assets/Axodouble/Drugs/Plants/Crops/Tobacco/Animations.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Animations.prefab
-- Assets/Axodouble/Clothing/Hats/Boonie Hats/Normal/White/Item.prefab
-- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves/Item.prefab
+- Assets/Axodouble/City/Objects/Transport/Interactibles/Bus_Stop/Nav.prefab
 - Assets/Axodouble/Mining/Items/Supplies/Ore/Coal/Coal_Ore_Stack/Barricade.prefab
+- Assets/Axodouble/Drugs/Plants/Leaves/Tobacco_Leaves/Item.prefab
+- Assets/Axodouble/Mining/Trees/Copper_0/Resource.prefab
 Dependencies: []
