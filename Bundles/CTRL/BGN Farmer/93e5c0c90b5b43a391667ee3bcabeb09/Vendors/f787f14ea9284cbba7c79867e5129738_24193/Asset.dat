@@ -2,7 +2,7 @@
 GUID f787f14ea9284cbba7c79867e5129738
 Type Vendor
 ID 24193
-Buying 128
+Buying 130
 Buying_0_ID 329
 Buying_0_Cost 50
 Buying_0_Conditions 1
@@ -2307,6 +2307,10 @@ Buying_127_Condition_0_ID 24192
 Buying_127_Condition_0_Value 3000
 Buying_127_Condition_0_Logic Greater_Than_Or_Equal_To
 
+Buying_128_ID 66
+Buying_128_Cost 30
+Buying_129_ID 49103
+Buying_129_Cost 300
 Selling 12
 Selling_0_ID 331
 Selling_0_Cost 200
@@ -2404,3 +2408,4 @@ Selling_11_Reward_0_ID 24192
 Selling_11_Reward_0_Value 1
 Selling_11_Reward_0_Modification Increment
 
+Disable_Sorting
