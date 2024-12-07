@@ -79,7 +79,7 @@ Selling_3_Cost 500
 Selling_3_Conditions 1
 Selling_3_Condition_0_Type Flag_Bool
 Selling_3_Condition_0_ID 24422
-Selling_3_Condition_0_Value False
+Selling_3_Condition_0_Value True
 Selling_3_Condition_0_Logic Equal
 
 Disable_Sorting
