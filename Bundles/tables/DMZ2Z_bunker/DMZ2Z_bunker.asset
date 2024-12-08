@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Roots" "0"
-	"Tables" "15"
+	"Tables" "19"
 	"Table_0_Weight" "5"
 	"Table_0_GUID" "17e13c36bdf0cb7dc136968fc17fa7d6"
 	"Table_1_Weight" "5"
@@ -38,6 +38,14 @@
 	"Table_13_GUID" "90a851cee62a4905903fbb0cde2bdf69"
 	"Table_14_Weight" "5"
 	"Table_14_GUID" "510f70cd60f9452ebc9a2a00a0641287"
+	"Table_15_Weight" "50"
+	"Table_15_GUID" "8c25cf28c76a4634855f404c8972c0ae"
+	"Table_16_Weight" "50"
+	"Table_16_GUID" "ae1fc8674d0b4443b3ad9a68776dcf0f"
+	"Table_17_Weight" "50"
+	"Table_17_GUID" "14901f32cd3240179fd6124324cc27e5"
+	"Table_18_Weight" "50"
+	"Table_18_GUID" "21ede8ebffb14c5580e8c7ad149e335e"
 	"ID" "25009"
 	"Asset_Bundle_Version" "5"
 }

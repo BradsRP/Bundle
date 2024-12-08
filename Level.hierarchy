@@ -1,4 +1,4 @@
-"Available_Instance_ID" "206"
+"Available_Instance_ID" "207"
 "Items"
 [
 	{
@@ -245015,7 +245015,7 @@
 				"Z" "3.110924"
 			}
 			"Shape" "Box"
-			"ID" "140"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -245045,7 +245045,7 @@
 				"Z" "3.110924"
 			}
 			"Shape" "Box"
-			"ID" "141"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -245075,7 +245075,7 @@
 				"Z" "3.512152"
 			}
 			"Shape" "Box"
-			"ID" "146"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "30"
 		}
@@ -246171,7 +246171,7 @@
 				"Z" "6.50732"
 			}
 			"Shape" "Box"
-			"ID" "139"
+			"ID" "1"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -247889,9 +247889,9 @@
 		{
 			"Position"
 			{
-				"X" "-933.494"
+				"X" "-914.1213"
 				"Y" "259.6628"
-				"Z" "929.5517"
+				"Z" "914.7632"
 			}
 			"Rotation"
 			{
@@ -247902,9 +247902,9 @@
 			}
 			"Scale"
 			{
-				"X" "39.70919"
+				"X" "89.33125"
 				"Y" "36.73773"
-				"Z" "34.85987"
+				"Z" "87.97722"
 			}
 			"Shape" "Box"
 			"No_Weapons" "true"
@@ -248527,9 +248527,9 @@
 		{
 			"Position"
 			{
-				"X" "-933.2611"
+				"X" "-913.573"
 				"Y" "253.5005"
-				"Z" "929.1858"
+				"Z" "913.6064"
 			}
 			"Rotation"
 			{
@@ -248540,9 +248540,9 @@
 			}
 			"Scale"
 			{
-				"X" "56.119"
+				"X" "95.49516"
 				"Y" "56.119"
-				"Z" "56.119"
+				"Z" "87.2777"
 			}
 			"Shape" "Box"
 		}
@@ -249303,7 +249303,7 @@
 				"Z" "2.58142"
 			}
 			"Shape" "Box"
-			"ID" "141"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -249333,7 +249333,7 @@
 				"Z" "2.58142"
 			}
 			"Shape" "Box"
-			"ID" "141"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -249363,7 +249363,7 @@
 				"Z" "2.58142"
 			}
 			"Shape" "Box"
-			"ID" "141"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -249393,7 +249393,7 @@
 				"Z" "1"
 			}
 			"Shape" "Box"
-			"ID" "140"
+			"ID" "0"
 			"Emission" "5"
 			"Audio_Range" "1"
 		}
@@ -249423,7 +249423,7 @@
 				"Z" "1"
 			}
 			"Shape" "Box"
-			"ID" "140"
+			"ID" "0"
 			"Emission" "5"
 			"Audio_Range" "1"
 		}
@@ -249453,7 +249453,7 @@
 				"Z" "1"
 			}
 			"Shape" "Box"
-			"ID" "140"
+			"ID" "0"
 			"Emission" "5"
 			"Audio_Range" "1"
 		}
@@ -249483,7 +249483,7 @@
 				"Z" "9.144114"
 			}
 			"Shape" "Box"
-			"ID" "142"
+			"ID" "0"
 			"Emission" "5"
 			"Audio_Range" "1"
 		}
@@ -249513,7 +249513,7 @@
 				"Z" "9.144114"
 			}
 			"Shape" "Box"
-			"ID" "142"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -249543,7 +249543,7 @@
 				"Z" "9.144114"
 			}
 			"Shape" "Box"
-			"ID" "142"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "1"
 		}
@@ -249573,7 +249573,7 @@
 				"Z" "57.49363"
 			}
 			"Shape" "Box"
-			"ID" "146"
+			"ID" "0"
 			"Emission" "1"
 			"Audio_Range" "250"
 		}
@@ -249631,6 +249631,33 @@
 			}
 			"LocationName" "???"
 			"IsVisibleOnMap" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.UndergroundWhitelistVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "206"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "877.3906"
+				"Y" "195.1303"
+				"Z" "-342.3338"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "172.8611"
+				"Y" "62.19427"
+				"Z" "158.5128"
+			}
+			"Shape" "Box"
 		}
 	}
 ]
